@@ -12,6 +12,8 @@ import pandas as pd
 import random
 
 from src.common.path_setup import *
+from src.common.logger import logger as sc_logger
+from src.common.path_setup import data_dir
 
 class VoterInfoParser:
     def __init__(self, path, first_page=0, last_page=None):
@@ -30,6 +32,8 @@ class VoterInfoParser:
         images = []
         # Open the PDF file with PyMuPDF
         pdf_file = fitz.open(pdf_path)
+
+        sc_logger.info(f"extraction of images from pdf started>>>>")
         
         # Go through each page
         for page_number in range(first_page, last_page):
@@ -47,6 +51,9 @@ class VoterInfoParser:
                 pil_image = Image.open(io.BytesIO(image_bytes))
                 images.append(pil_image)
         
+        sc_logger.info(f"No of pages in pdf>>> {len(images)}")
+
+        sc_logger.info(f"extraction of images from pdf completed>>>>")
         return images
     
 
@@ -98,7 +105,8 @@ class VoterInfoParser:
 
         # Filter contours based on area to remove noise
         filtered_contours = [cnt for cnt in contours if cv2.contourArea(cnt) > 30000 and cv2.contourArea(cnt) < 100000]
-        print(len(filtered_contours))
+        # print(len(filtered_contours))
+        sc_logger.info(f"No of boxes in this page>>> {len(filtered_contours)}")
 
         bounding_boxes = []
 
@@ -116,7 +124,7 @@ class VoterInfoParser:
         
         outlined_image_path = os.path.join(data_dir, 'pdf_images', 'outlined_images', f"""outlined_image_{str(random_number)}.png""")
         cv2.imwrite(outlined_image_path, image_cv)
-
+        sc_logger.info(f"Outlined image dumped to path>>> {outlined_image_path}")
         areas = [cv2.contourArea(cnt) for cnt in filtered_contours]
         # print(sorted(areas))
         return (image_cv, filtered_contours)
@@ -134,6 +142,7 @@ class VoterInfoParser:
         return text.strip()  # Remove any leading/trailing white space
 
     def ocr_pdf(self):
+        sc_logger.info(f"ocr pdf process started >>>>>>>")
         # Apply the adjusted preprocessing to the extracted images
         preprocessed_images_adjusted = [self.preprocess_image_adjusted(img) for img in self.extract_images_from_pdf()]
 
@@ -147,6 +156,9 @@ class VoterInfoParser:
                 if text:  # If text was detected, save it with an identifier
                     preprocessed_ocr_results_adjusted.append(text)
         # Return the OCR results after adjusted preprocessing
+
+        sc_logger.info(f"ocr pdf process completed >>>>>>>")
+
         return preprocessed_ocr_results_adjusted
     
 
@@ -182,9 +194,13 @@ class VoterInfoParser:
         """
         preprocessed_ocr_results_adjusted = self.ocr_pdf()
         # print("voters info>>>", preprocessed_ocr_results_adjusted)
+        sc_logger.info("extraction of voters info started using regex >>>>>>>")
         for text in preprocessed_ocr_results_adjusted:
             parsed_voters = self.parse_voter_info(text)
             self.refined_parsed_voters.append(parsed_voters)
+
+        sc_logger.info("extraction of voters info completed >>>>>>>")
+
         return self.refined_parsed_voters
     
     def validate_voters_info(self):
@@ -207,6 +223,8 @@ class VoterInfoParser:
 
         self.validated_voters_df = df
 
+        sc_logger.info(f"validated_voters_df shape >>> {df.shape}")
+        sc_logger.info(f"validated_voters_df >>> {df.head()}")
         return df
 
     def save_extracted_voters_info(self):
@@ -226,10 +244,7 @@ class VoterInfoParser:
         return csv_file_path
 
 
-if __name__ == '__main__':
-    import os 
-    from src.common.path_setup import data_dir
-
+def parse_voter_pdf():
     # Path to your PDF file
     pdf_file_path = os.path.join(data_dir, 'electoral_rolls.pdf')
 
@@ -243,7 +258,14 @@ if __name__ == '__main__':
 
     csv_file_path = voter_info_parser.save_extracted_voters_info()
 
-    print(f"""csv_file_path>>> {csv_file_path}""")
+    sc_logger.info(f"""csv_file_path>>> {csv_file_path}""")
+
+
+if __name__ == '__main__':
+    parse_voter_pdf()
+
+
+
 
 
 

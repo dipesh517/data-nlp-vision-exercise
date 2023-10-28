@@ -5,3 +5,7 @@ output/*
 data/archive/*
 data/pdf_images/*
 src/__pycache__/*
+.env
+**/__pycache__/*
+logs/*
+!logs/.gitkeep
