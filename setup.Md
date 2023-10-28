@@ -27,3 +27,4 @@ python3 -m src.voter_info_parser
 pytest tests/test_voter_info_parser.py
 
 # For gender classification using llm
+python3 -m src.llm
