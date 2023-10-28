@@ -11,7 +11,7 @@ import cv2
 import pandas as pd
 import random
 
-from common.path_setup import *
+from src.common.path_setup import *
 
 class VoterInfoParser:
     def __init__(self, path, first_page=0, last_page=None):
@@ -118,7 +118,7 @@ class VoterInfoParser:
         cv2.imwrite(outlined_image_path, image_cv)
 
         areas = [cv2.contourArea(cnt) for cnt in filtered_contours]
-        print(sorted(areas))
+        # print(sorted(areas))
         return (image_cv, filtered_contours)
 
     def ocr_on_roi(self,image, contour, index):
@@ -216,8 +216,11 @@ class VoterInfoParser:
         # Extract the voter information
         df = self.validate_voters_info()
 
+        # extract last file name from self.path and exclude .pdf also 
+        file_name = os.path.basename(self.path).split('.')[0]
+
         # Save the DataFrame to a CSV file
-        csv_file_path = os.path.join(output_dir, 'voters_info.csv')
+        csv_file_path = os.path.join(output_dir, f"{file_name}_output.csv")
         df.to_csv(csv_file_path, index=False)
 
         return csv_file_path
@@ -225,7 +228,7 @@ class VoterInfoParser:
 
 if __name__ == '__main__':
     import os 
-    from common.path_setup import data_dir
+    from src.common.path_setup import data_dir
 
     # Path to your PDF file
     pdf_file_path = os.path.join(data_dir, 'electoral_rolls.pdf')

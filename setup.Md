@@ -18,7 +18,10 @@ If you're using Linux
 # Install the requirements.txt inside the environment
 pip install -r requirements.txt
 
+export PYTHONPATH="."
 
 # To parse the voter info 
-python3 src/voter_info_parser.py
+python3 -m src.voter_info_parser
 
+# To run the tests 
+pytest tests/test_voter_info_parser.py
