@@ -1,3 +1,7 @@
 env/*
 output/*
 !output/.gitkeep
+.pytest_cache/*
+data/archive/*
+data/pdf_images/*
+src/__pycache__/*
