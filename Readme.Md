@@ -43,4 +43,10 @@ To accomplish this task, we'll follow these steps:
 
 
 
+Challenges Faced:
+Initially I tried extracting the text from whole page. But it was very difficult to find patterns from the extracted text. 
+name, relative name, age, gender is easy to extract. But it is not able to extract voter id which is not in a proper pattern. It was not able to find patterns 
+So I am trying cv2 to generate image with outlines by detecting boxes or regions of interest (ROIs). And then perform OCR on that particular region of interest.
+
+
  

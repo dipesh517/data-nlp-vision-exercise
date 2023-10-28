@@ -5,6 +5,7 @@ Install necessary libraries in the system
 If you're using MACOs
     brew install poppler
     brew install tesseract
+    brew install opencv
 
 If you're using Linux
     sudo apt-get install poppler-utils tesseract-ocr
@@ -18,5 +19,6 @@ If you're using Linux
 pip install -r requirements.txt
 
 
-
+# To parse the voter info 
+python3 src/voter_info_parser.py
 
