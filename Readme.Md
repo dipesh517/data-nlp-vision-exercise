@@ -49,12 +49,28 @@ name, relative name, age, gender is easy to extract. But it is not able to extra
 So I am trying cv2 to generate image with outlines by detecting boxes or regions of interest (ROIs). And then perform OCR on that particular region of interest.
 
 
-Using regex to extract voters info from text, it was unable to parse id column, and if names are in multiple lines and if certain patterns changes, the accuracy of parsing the data was quite low. There were duplicates in voter ids also. Few names were not being captured. Parsing analysis using regex is demonstrated on 
-# parsing_analysis_using_regex.ipynb 
+Using regex to extract voters info from text, it was unable to parse id column, and if names are in multiple lines and if certain patterns changes, the accuracy of parsing the data was quite low. There were duplicates in voter ids also. Few names were not being captured.
 
 To overcome the shortfalls, we used llm for extracting the voter info from the text.
-Accuracy increased. No of duplicates by voter ids decreased too. Parsing analysis using llm is demonstrated on 
-# parsing_analysis_using_llm.ipynb 
+No of duplicates by voter ids decreased too from 31 to 1 case.
+Accuracy increased from 91.65 to 99.74 %. 
+
+Summary of data missing present in both datasets :
+
+Regex-parsed data:
+voter_id: 31 missing ( Improperly labelled)
+name: 33 missing
+house_number: 53 missing
+parent_or_spouse_name_only: 11 missing
+
+LLM-parsed data:
+id: 345 missing Not properly extracted from OCR
+voter_id: 1 missing
+age: 1 missing
+gender: 1 missing
+parent_or_spouse_name_only: 1 missing
+
+Detailed Comparative analysis using llm and regex is demonstrated here at #comparative_analysis_using_llm_and_regex.ipynb
 
 Links to relevant code : #src/voter_info_parser.py
 
