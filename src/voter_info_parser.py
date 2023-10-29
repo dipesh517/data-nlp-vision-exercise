@@ -10,18 +10,25 @@ import os
 import cv2
 import pandas as pd
 import random
+import time
+
+from dotenv import load_dotenv
+from src.llm import AZURE_OPENAI_MODEL
+
+load_dotenv()
 
 from src.common.path_setup import *
 from src.common.logger import logger as sc_logger
 from src.common.path_setup import data_dir
 
 class VoterInfoParser:
-    def __init__(self, path, first_page=0, last_page=None):
+    def __init__(self, path, first_page=0, last_page=None, parser='regex'):
         self.path = path
         self.first_page = first_page
         self.last_page = last_page
         self.refined_parsed_voters = []
         self.validated_voters_df = None
+        self.parser = parser
 
     # Correcting the method to unpack and extract images from the PDF
 
@@ -168,7 +175,7 @@ class VoterInfoParser:
         It uses regular expressions to identify patterns in the text corresponding to the information we want to extract.
         """
         regex_mappings = {
-            "id": r"^\s*(\d+)",  # Extracts the ID assuming it is two digits.
+            "id": r"(?!\s*(?:age|gender))\s*(\d{1,3})\b", # Extracts digits at the beginning of the text. maximum 4 digits
             "voter_id": r"\b([A-Z]+\d+)\b",  # Extracts the voter_id assuming it starts with letters followed by numbers.
             "name": r"Name:\s*([^\n]+)",  # Extracts whatever follows "Name: " until the newline.
             "house_number": r"House Number\s*:\s*([\d/]+)",  # Extracts digits that follow "House Number: ".
@@ -188,6 +195,37 @@ class VoterInfoParser:
         extracted_info['parent_or_spouse_name_only'] = parent_or_spouse_name_only
         return extracted_info
     
+    def parse_voter_info_using_llm(self,raw_texts):
+        model = os.environ.get('AZURE_OPENAI_MODEL')
+        resource = os.environ.get('AZURE_OPENAI_RESOURCE')
+        key = os.environ.get('AZURE_OPENAI_KEY')
+        temperature = os.environ.get('AZURE_OPENAI_TEMPERATURE')
+        top_p = os.environ.get('AZURE_OPENAI_TOP_P')
+        max_tokens = os.environ.get('AZURE_OPENAI_MAX_TOKENS')
+
+        llm = AZURE_OPENAI_MODEL(model,resource,key,temperature=temperature,top_p=top_p,max_tokens=max_tokens)
+
+        processed_batches = []
+
+        # split it into the batches of 100 
+        for start in range(0, len(raw_texts), 75): 
+             # Here, 25 is the size of your batch
+            end = start + 75
+            if end > len(raw_texts):
+                end = len(raw_texts)
+            df_batch = raw_texts[start:end]
+            
+            # Process the batch and store the result
+            result_batch = llm.parse_using_llm(df_batch)
+            processed_batches.append(result_batch)
+            time.sleep(4)
+
+        sc_logger.info(f"processed_batches>>processed_batches")
+        answers_df = pd.concat(processed_batches).reset_index(drop=True)
+
+        return answers_df.to_dict(orient='records')
+
+    
     def extract_voters_info(self):
         """
         This function combines the OCR and parsing steps to extract the voter information from the PDF.
@@ -195,10 +233,13 @@ class VoterInfoParser:
         preprocessed_ocr_results_adjusted = self.ocr_pdf()
         # print("voters info>>>", preprocessed_ocr_results_adjusted)
         sc_logger.info("extraction of voters info started using regex >>>>>>>")
-        for text in preprocessed_ocr_results_adjusted:
-            parsed_voters = self.parse_voter_info(text)
-            self.refined_parsed_voters.append(parsed_voters)
-
+        if self.parser == 'regex':
+            for text in preprocessed_ocr_results_adjusted:
+                parsed_voters = self.parse_voter_info(text)
+                self.refined_parsed_voters.append(parsed_voters)
+        if self.parser == 'llm':
+            parsed_voters = self.parse_voter_info_using_llm(preprocessed_ocr_results_adjusted)
+            self.refined_parsed_voters = parsed_voters
         sc_logger.info("extraction of voters info completed >>>>>>>")
 
         return self.refined_parsed_voters
@@ -238,17 +279,21 @@ class VoterInfoParser:
         file_name = os.path.basename(self.path).split('.')[0]
 
         # Save the DataFrame to a CSV file
-        csv_file_path = os.path.join(output_dir, f"{file_name}_output.csv")
-        df.to_csv(csv_file_path, index=False)
+        if self.parser == 'regex':
+            csv_file_path = os.path.join(output_dir, f"{file_name}_output.csv")
+        if self.parser == 'llm':
+            csv_file_path = os.path.join(output_dir, f"{file_name}_parsed_by_llm_output.csv")
+
+        df.to_csv(csv_file_path,sep=';', index=False)
 
         return csv_file_path
 
 
-def parse_voter_pdf():
+def parse_voter_pdf(parser='regex'):
     # Path to your PDF file
     pdf_file_path = os.path.join(data_dir, 'electoral_rolls.pdf')
 
-    voter_info_parser = VoterInfoParser(pdf_file_path, first_page=3, last_page=31)
+    voter_info_parser = VoterInfoParser(pdf_file_path, first_page=2, last_page=32, parser=parser)
 
     extracted_text = voter_info_parser.extract_voters_info()
 
@@ -262,7 +307,8 @@ def parse_voter_pdf():
 
 
 if __name__ == '__main__':
-    parse_voter_pdf()
+    # parse_voter_pdf()
+    parse_voter_pdf(parser='llm')
 
 
 

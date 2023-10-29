@@ -1,749 +1,781 @@
-id,voter_id,name,house_number,age,gender,parent_or_spouse_name_only
-53,TNH3526647,Noor Ayesha,454,25,FEMALE,Sab Jan
-,TNH3526639,Sab Jan,454,57,MALE,Peer Sab
-54,TNH3657004,Anusuya Bai R,302,23,FEMALE,Narayan Rao V
-50,TNH2587293,Venkataramu.G,170/,31,MALE,Late. Gurumurthy
-49,TNH1000421,Mangalamma,170/,51,FEMALE,Late Guru Murthy
-,TNHO415489,Rekha,170,34,FEMALE,Kumar K
-,TNH2642809,Nagarathna,170,35,FEMALE,Kumar M
-,TNHO415679,Kumar K,170,40,MALE,Krishnappa T
-,TNH0657908,Kumar M,170,48,MALE,
-,TNH2250280,Chikkathayamma,170,58,FEMALE,Krishnappa
-,TNH3552254,Varun VB,166,27,MALE,Brahma Prakash VS.
-,TNH3421930,Habeebunnisa,148/3,58,FEMALE,A'S Ameer Jan
-,TNH3421914,AS Ameer Jan,148/3,64,MALE,Abdul Azeez
-40,TNH2939767,Padmini G,132,30,FEMALE,Gundappa N
-29,TNH3399581,Narayanamma,129/40,68,FEMALE,Munirathnam Reddy
-28,TNH3856804,Reshma banu,,28,FEMALE,Syed mansur
-27,TNH1000371,Akkayamma,113,85,FEMALE,Thirumalaiah
-,TNH3755832,SOWMYA BM,91,45,FEMALE,MOHAN KUMAR.
-,TNH2250025,M Manohar Prasad,79,78,MALE,KM Prasad
-,FSY2217008,Hemanth Prasad M,79,44,MALE,Manohar Prasad M
-23,,Uma Prasad,79,69,FEMALE,M Manohar Prasad
-,TNH391,Selva Kumar,54,43,MALE,Nagaraj
-,TNH3554144,Inderjeet Jitender Singh,46,32,MALE,K Jitender Kumar Singh
-,TNH2656932,RIYAZULLA,24/6,41,MALE,ALI SAB
-,TNH2250363,Kirankumar A,24/6,42,MALE,Ashwathanarayana
-81,TNH2250355,Sharadamma,24/6,58,FEMALE,Ashwathanarayana
-,TNH2290799,Minnakaiah,24/6,79,MALE,Minnakaiah
-79,TNH3814423,Shama Taj,,35,FEMALE,Tanveer Ahmed
-,TNH2780633,Lavanya K,20/10,30,FEMALE,Kodandarama V
-7,TNH3421997,Mangala Gowri B M,,27,FEMALE,Mallikarjunaiah
-76,TNH3800208,Amrutha BR,19,28,FEMALE,Ramachandra V
-,,Pavithrarao TV,17,42,FEMALE,Vasudevarao T S
-,TNH3449766,Giri Darshan,16,26,MALE,Chandrappa
-,TNH2292639,Padma,16,47,FEMALE,C Chandrappa
-,TNH2291078,,16,59,MALE,Late Balegowda
-,TNH3272812,Balu Rawal,13,38,MALE,Gagan Rawal
-70,TNH2296069,Pooja Bhati,,35,FEMALE,Ravikumar Bhati
-69,TNH2295541,Ravikumar C Bhati,,41,MALE,Champalal Bhati R
-88,TNH2295558,Champalal Bhati R,,67,MALE,Raghunatmal Bhati
-,TNH2711935,B V Vikram,10,44,MALE,VS Venkatesh
-,TNH3461266,Dr M C Divakar,9,72,MALE,Late Chennaveeraiah
-,TNH3461258,MR Sumangala,9,96,FEMALE,Late Chennaveeraiah
-,TNH2711752,Raju,7/1,48,MALE,Venkata Ramaraju
-,TNH3920469,Gowtham P,6/19,22,MALE,Prashanth Babu
-,TNH3857885,SYED AMEEN,,22,MALE,WAJID S A
-,TNH3731031,,5/1,54,FEMALE,late VENKATESHA A
-,TNH2583300,Geetha,5,36,FEMALE,Suresh
-,,Dr Prathibha Rani S,05,47,FEMALE,Dr. Surendra L
-,,Sudha L,05,57,FEMALE,Dr V R Devaraj
-,TNH3399623,Basavalinga Swamy B,4/18,41,MALE,Basavaiah
-56,TNH271,Shwetha Jagadeesh,01,40,FEMALE,J R Saligram
-55,TNH2711109,Shila Jagadeesh,01,70,FEMALE,J R Saligram
-54,TNH2711125,JR Saligram,01,72,MALE,Ramaswamy
-113,TNHO221796,RD Shruthi,156/6,39,FEMALE,A Ramesh
-112,TNHO221812,Rashmi Ramesh Doddamane,156/6,41,FEMALE,A Ramesh
-,TNH2940039,Swetha Chavadi,153,37,FEMALE,Chanabasappa
-,TNH2939825,,153,43,MALE,Veerabhadrappa
-109,TNH3108636,Abhilash Vinayaka A |,152,31,MALE,A P Indushekar
-,TNH2780666,Sandhya AS,152,54,FEMALE,AP Indu Shekar
-107,TNH3108586,Veena N,152,57,FEMALE,AP Indushekar
-,TNH0094623,AP Indhushekhara,152,62,MALE,Puttaram
-105,TNHO409441,MS Chudamani,152,83,FEMALE,Late. A S Puttaram
-,TNH2642516,V Shrinivasamurthi,151,36,FEMALE,V Shrinivasamurthi
-,TNH2642684,Rajesh,151,41,FEMALE,Rajesh
-,TNH2711505,Sushma Rao,151,45,FEMALE,Rajesh
-,TNH2500106,Rajesh,151,50,MALE,Jayabharathi
-,TNH2642734,Rajesh,151,51,MALE,Chikkaswamy
-99,TNH2642759,Lathamurthy,151,61,FEMALE,V Srinivasamurthy
-98,TNH2642627,V Shrinivasamurthy,151,71,MALE,Venkatappa
-,TNH3775749,SHEKAR R,139,48,MALE,RAMACHANDRAPPA
-,TNH3143369,YS Kavya Shree,90,29,FEMALE,K Siddaraju
-95,TNH1000553,Maumantanstrita Vimala Ganesh,77/3,54,FEMALE,B Ganesh Babu
-94,TNH1000546,Mtaunstrita Ganesh Babu,77/3,61,MALE,S . B Sharm
-93,TNH1000538,Minauna Street S.B. Sha,77/3,103,MALE,Late. T K S Aiyyar
-,FSY2218345,Jyadeepa G,37,44,MALE,Ganapathraj C
-,FSY4776239,M Janardhana,26,48,MALE,M Muniyappa
-90,TNH2939791,Manjula,26/2,32,FEMALE,Nataraj
-,TNH2250371,L Aasha,26/1,49,FEMALE,T Muththurama.
-,TNH2250389,T Muththurama,26/1,55,MALE,M Thimmayya
-,TNH3399615,Shabeer Ahmed,25/4,26,MALE,Ibrahim
-86,TNH2656940,SHAWAZ,24/6,32,FEMALE,RIYAZULLA
-85,TNH2656825,FARIDA BANU,24/6,33,FEMALE,MUJIB AHMED
-,TNH2656833,MUJIB AHMED,24/6,39,MALE,ABDUL BASHIR
-,TNH2940716,Savithramma K,349,94,FEMALE,Krishna Reddy
-,TNH2940708,M Krishna Reddy,349,102,MALE,Muniswamy Reddy
-,L128,Rahul AN,302,24,MALE,Anusuya Bai R
-,FSY5942537,Venkatappa,212,56,MALE,Venkatappa
-,TNH2571529,R.Mahesh,211/,57,MALE,
-126,,Anjana Chidananda,173,44,FEMALE,Dr K N Chidananda
-125,FSY4774337,Leelavathi P,164,55,FEMALE,Venkateshamurthy
-124,FSY4774329,Venkateshamurthy,164,62,MALE,Ganeshaiah
-123,FSY4773685,Dhwarakanath,164,57,MALE,Nanjunda Shastry
-122,,Krishnaveni,,57,FEMALE,M G Satish Babu
-124,FSY2165686,MG Satish Babu,162,68,MALE,MR Gajapathi
-120,,Viayalakshmi,161,65,FEMALE,M Gopinath
-,FSY2219533,,161,73,MALE,Madhavarao S-
-,TNH2940005,Gandam Rakesh Deva Kumar,158,33,MALE,Gandam Narasaiah
-,TNH0165530,BP Meena,157,60,FEMALE,B K Venkataramu
-,TNHO165522,B K Venkataramu,157,67,MALE,Late. BA
-,TNHO221465,K V Yashodamma,157,90,FEMALE,Late. BA
-114,TNH0166025,Dhiraj Kumar. R.D,156/6,39,FEMALE,A Ramesh
-164,TNH2584712,vatsala rao .k,97/1,70,FEMALE,narasimha rao
-160,TNH2579449,narasimha rao,97/1,74,MALE,venkata rao
-159,TNH3766318,Shubha M Kamat,56,34,FEMALE,Prakash M Mahale
-,TNH2892529,Shekhar V,37,30,MALE,Venkatesh
-,TNH2892511,Manjula M,37,49,FEMALE,Venkatesh
-,TNH3856267,S MUJAMMIL,35,24,MALE,MAHABOOB BASHA
-,L185,C Krishnappa,31/1,54,FEMALE,C Krishnappa
-,TNH3364247,C Krishnappa,31/1,64,MALE,
-,L183,Mukunda R,28/50,32,MALE,Rangappa
-,TNH2940500,Surya,28/50,24,MALE,S S Nayak
-154,TNH2940377,Sahana HK,27,35,FEMALE,Krishnappa Gowda
-,TNH3108677,Masuda D,26/1,40,FEMALE,D Usman
-,TNH2940468,Goutham HM,25,28,MALE,Mariyappa K
-,TNH1000736,Velachi,23,74,FEMALE,Kuppaswamy
-,TNH1000728,Kuppaswamy,23,78,MALE,Chinnaswamy
-,TNH2310068,Santosh,20,56,FEMALE,B Champalal
-,TNH2310050,B Champalal,20,59,MALE,Late Bikam Chand
-,TNH3800497,Prasad RL,19,27,MALE,Ramachandra V¥
-,TNH2940435,Laxmi Rawal,12/1,36,FEMALE,Janak Bahadur
-,TNH3144839,Libina TP,10,43,FEMALE,Mohan M
-,TNH3166337,Mohan M,10,50,MALE,Unnicharu
-,TNH3920329,MANOJ R,,21,MALE,RANGARAJU
-139,TNH3866100,Mubarak Sharift,9,21,MALE,Rafiullf Sharift
-138,TNH2939908,Rafiulla Sharit,9,53,MALE,Zakiulla Sharit
-,TNH3761764,AKASH R,5,25,MALE,RAVI KUMAR HN.
-,TNH2780641,Radha N,5,48,FEMALE,Krishna M
-,TNH3655578,KRISHNA M,5,59,MALE,"LATE MUNIYAPPA,"
-,TNH3843513,ROHIT KUMAR M.,,23,MALE,
-,TNH3755972,BHAVYA SHREE M,3,22,FEMALE,MANOHARA A
-132,TNH2940385,Subhash Kumar,2/15,32,MALE,Motilal
-194,TNH2656817,CHANDRASHEKAR K,147,80,MALE,RAMACHANDRA RAO.
-,L190,Rudramma_,147,88,FEMALE,SK
-129,TNHO353789,Ipharaj Rehaman,146,38,MALE,M A.Rahamana
-198,,Parivij Rehaman,146,44,MALE,Rehaman MA
-,TNHO220715,Huzail Anmed,146,46,MALE,Shabbir Anmed
-196,,lrashad Rehman,146,64,FEMALE,MA Rehman
-,FSY2166627,MA Rehman,146,74,MALE,Abdul Malik
-184,TNH2647378,Roopa,145,67,FEMALE,Mallikarjunaiah
-183,FSY2221737,Marsivittekara,144,79,FEMALE,Sytanlyi Vittekara
-182,FSY4774543,Naziya Musarath,144,41,FEMALE,MA Rehaman
-184,FSY2166148,Rama Satish,144,68,FEMALE,SB Satish
-,TNH2711182,SB Satish,144,68,MALE,Bachegowda
-,TNHO221648,Devaiah PB,144/1,36,MALE,Bopanna PT
-,TNHO377705,RaviR,144/1,38,MALE,Rachaiah S bn
-,TNHO221549,S.S. Charan,144/1,39,MALE,S. B. Sathish
-176,TNHO221408,Mrs P.S.Bopanna,144/1,71,FEMALE,Bopanna PT
-,TNHO221390,Thimmaiah P M,144/1,72,MALE,Thimmaiah P M
-,TNHO221127,S.B.. Sathish,144,43,MALE,S.B.. Sathish
-,L173,Abhijit Halder,144,46,MALE,Manoranjan Halder
-,L972,AVINASH UMMADISINGU,142,30,MALE,GOPALAKRISHNA
-,,Chayadevi R,142,73,FEMALE,Ramanathan
-,,Ramanathan C,142,84,MALE,Chinnaswamy
-169,TNH2940542,Shreyas Madhusudan,141,30,MALE,R Madhusudan
-168,TNH2940187,Nikita Madhusudan,141,32,FEMALE,R Madhusudan
-,L167,Meena Shyam Sundar,141,59,FEMALE,R Shyam Sundar
-,TNH3461340,Nanda Madhusudhan,141,62,FEMALE,Madhusudhan
-,TNH3461290,Shri Hari,140,54,MALE,Sheshadri
-164,TNHO410456,Jayalakshmi,140,79,FEMALE,Sheshadri
-,TNH3875622,Hiranaiah H,,47,MALE,Hanumappa
-,TNH3870151,Venkatesh G,,46,MALE,Gurumurthy
-,,Salmana Pasha,149,43,MALE,Abdul Rof Khan
-,FSY2164655,,149,48,MALE,Abdul Rof Khan
-203,FSY2165090,Mahaboob Jhon Salma,149,68,FEMALE,Abdulrappa Khan
-,FSY2217362,Abdul Rof Khan,149,81,MALE,Abdul Rasheed Khan
-,TNH2289213,Manjula,149,42,FEMALE,Nagaraju
-,TNH2289205,Susheela,149,42,FEMALE,JV Venkatesh
-,TNH2288694,R Nagaraju,149,45,MALE,Ramayya
-,TNH2288686,J ¥ Venkatesh,149,49,MALE,
-,FSY2166338,C M Venkatesh,148,59,MALE,C A Manjegowda
-,TNH2365468,Jayalakshmi K M,148,61,FEMALE,Manjappa Gowda
-,FSY4775615,Balasubramanya Kumar,147,47,MALE,SK Veerabhadrachar
-194,FSY2217875,Chandrika.,147,55,FEMALE,Rama Murthy
-,FSY2217446,Suma V,147,56,FEMALE,S K Veerabhadrachari
-192,FSY2217438,Mahima V,147,58,FEMALE,S K Veerabhadrachari
-,TNH3364338,Somashekhar,25,36,FEMALE,Somashekhar
-234,TNH3364353,Somashekhar N,25,45,MALE,TN Nagaraj
-,TNH3421955,Kanakadri V,23,33,MALE,Late Venkata Swamy
-,TNHO354753,K Kannan,23,41,MALE,Kuppaswamy
-2,TNH2625119,Krishna Narayana Rao,23,62,MALE,C K Narayana
-,TNH3272903,K Kannan,21,43,MALE,K Kannan
-,TNH1001056,P-Rajtha,21,43,FEMALE,Vasudeva Naidu
-228,TNH1001064,V.Vasudeva Naidu,21,47,MALE,V.Keshavalu Naidu
-227,TNH2570885,Shankarappa .D. K,19,40,MALE,Kumara swamy
-,TNH2378677,Ramesh,19,42,MALE,Basanagowda
-,TNH2371904,Ashok T,19,43,MALE,Guddappa T
-,TNH1001049,R.Prasad,18,56,MALE,Ramaiah
-,TNH3364213,Geetha S,17,24,FEMALE,Sabhapathy
-222,TNH3364262,Mamatha S,,39,FEMALE,Sabhapathy
-224,TNH3364296,Munirathnamma,,58,FEMALE,Sabhapathy
-,TNH3364270,Muniraju,17,64,MALE,Muniraju
-219,TNH2780302,Nabeela Afreen S,8,29,FEMALE,Shuyeeb Ahmed
-218,TNH2766418,Sabeeha Begum,8,63,FEMALE,Shuyeeb Anmed
-,L247,Kiran,6,31,MALE,Janardhan
-216,TNH2939676,Gowri,6,32,FEMALE,K Munithammaiah
-215,TNH2587343,Vasanthakumar,6,34,MALE,Janardhan
-,TNH2587335,Varalakshmi,6,36,FEMALE,Udayakumar
-213,TNH2696615,Thimmakka,6,71,FEMALE,Muniyappa
-,TNH2940351,Yashoda.,5,46,FEMALE,Ravi Kumar
-,TNH2940633,Ravi Kumar,5,55,MALE,Narayana Setty
-,TNH2587376,Bharathi.G,3,33,FEMALE,Sanjay.V.M
-,TNH2587368,LAsha,3,33,FEMALE,M.Anand
-,TNH2569564,Prema,3,47,FEMALE,V. Muniraju
-,TNH2568061,Mohan kumar .V,3,50,MALE,Venkatagiriyappa
-,TNH2780781,Ramaiah N,0,24,MALE,Narayanaiah
-244,TNH3856671,SHADAB KOUSER,246/17,20,MALE,MUNAWAR HUSSAIN
-,TNH3422003,Pramath G,135,26,MALE,Gopinath Rao HN
-242,TNH3364460,Shubha Mohan,91,68,FEMALE,Mohan Kumar
-,L241,Mohan Kumar,91,75,MALE,Puttashama Raju
-,TNH3399631,Shanase,87/2,36,FEMALE,Khasim Peer
-,TNH1001098,ICN. Munirathna,47,43,FEMALE,N.Suresh
-,TNH1001072,N.Suresh,47,50,MALE,Narayan Sa
-237,TNH1001080,Lakshmi,47,75,FEMALE,Narayan Sa
-,TNH2586410,,31,80,MALE,Dobaiya
-,TNH3088580,RN Naveen,96/23,50,MALE,Nanjunda Shetty
-273,TNH2711737,Manjula,96/23,51,FEMALE,Gowriprasad
-,TNH2569283,P. Srinivasan,96/23,52,MALE,late. palani swamy
-,TNH2711539,Gowri Prasad,96/23,55,MALE,Sheenappa
-270,TNH2567436,V.H. Nagasri,95,30,FEMALE,V.K.Harinath
-269,TNH2940534,Tejashwini D M,95,33,FEMALE,Nagesh V H
-,TNH2575561,V.H. Nagesh’,95,38,MALE,V. K. Harianath
-267,TNH3272788,Sudhasri E,95,58,FEMALE,Dr H Srinivas
-,TNH2578177,V.K Harinath,95,72,MALE,Late. V. Krishnaiah
-,TNH3272879,Kiran Kumar N,94,29,MALE,Nanjundappa
-264,TNH2780575,Kavya,94,31,FEMALE,SK Vishwanath
-263,TNH2711083,SV Krishnamurthy,94,33,MALE,S K Vishwanath
-,TNH3272838,Shivaratna,94,56,FEMALE,Nanjundappa
-,TNH3272853,Bhogappa,94,62,MALE,Bhogappa
-260,FSY4774758,Y Vimala,92,80,FEMALE,Y Papaiah Naidu
-,TNH3108594,Srinivasan BK,90,28,MALE,Srinivasan BK
-258,TNH2566016,BS. Anjana,90,30,FEMALE,B. K. Srinivasan
-257,TNH3730843,Viayalakshmi B S,90,62,FEMALE,B K Srinivas
-256,TNH2573798,B.K. Srinivasan,90,68,MALE,B. Krishnamurthy
-,TNH1001445,S.Karthik,51,24,MALE,C.Siddaramu
-,TNH3364254,,26,24,MALE,Krishnappa M
-253,TNH2587400,K Hemavathi,21,38,FEMALE,B.D.Vishwanath
-,TNH2310175,Shwetha H.R,21,40,FEMALE,Siddalingamurthy
-254,TNH2587392,B.D.Vishwanath,21,48,MALE,B.Doddakariyappa
-,TNH3870193,Vishwas M,17,22,MALE,Manjunath M
-,TNH3870185,VAISHNAVIM,17,22,FEMALE,MANJUNATH M.
-,TNH3364478,George,8,47,MALE,George
-,TNH2310118,Sunil,6/2,41,MALE,Sunil
-,TNH2310100,Shiva Kumar,6/2,45,MALE,Dodda Mallaiah
-,TNH3272762,E Suvarna.,4/1,41,FEMALE,K Janardhana Reddy
-,TNH3187606,c D Menon,131/9,42,FEMALE,Damodharan K
-,TNHO165225,Umaguptha,131/9,61,FEMALE,
-302,TNHO165233,Sathyanarayana Gupta G,131/9,63,MALE,Gopal Krishna Shetty G
-204,TNH3180684,Devaki,131/9,90,FEMALE,Damodaran
-,TNH3181153,K Mamodharan,131/9,93,MALE,Keshavan Late
-299,TNH3272671,vadiraj batavi,103,29,MALE,usha bai batavi
-,TNH3272622,pooja torvi,103,24,FEMALE,vaman torvi
-,TNH2369858,Narayana Moorthy K,103,51,MALE,K Shankara Narayana
-,TNH3357951,Ushabai Batavi,103,65,FEMALE,Late Achutachar
-,TNH2940450,Maryam Fathima Jaleel,102,28,FEMALE,Mohammed Abdul
-204,TNH2940344,Shaik Mohammed Rizwan,102,29,MALE,Shaik Idris
-,TNH3197886,Shaik Idris:,102,30,MALE,Abdul Majid
-292,TNH2940526,Shaik Mohammed Salman,102,31,MALE,Shaik Idris
-,TNH2887248,AMEENA TARANUM,102,38,FEMALE,TAHER HUSSAIN
-,TNH2500130,Prajna Prahlad,101,42,FEMALE,Vinay Rao
-,TNH2574861,Vinay Rao,101,45,MALE,T R Raghunatha Rao
-228,TNH2642924,Yashodhamma,100,53,FEMALE,Yaliya
-287,TNHO356733,Asha S,100,59,FEMALE,T R Keshava Murthy
-286,TNHO356758,Dr Madhavamurthy,100,61,MALE,Shrinivashamurthi
-285,TNHO356725,T R Keshavamurthy,100,70,MALE,TV Ramanna
-284,TNH2576775,V.R. Darshan Kote,99,30,MALE,A.V.Ravi Prakash
-283,TNHO355909,VR Vikrankote,99,34,MALE,Dr Raviprakash
-,TNH3155173,G Nischal,98/2,28,MALE,DR P G Girish
-,TNHO411702,C G Raghavendrarao,97/1,43,MALE,C G Raghavendrarao
-,TNH2939916,Amruta B Kulkarni,97/1,34,FEMALE,Balavantraya K Kulkarni
-,TNH2939890,Ashrita B Kulkarni,97/1,36,FEMALE,Balavantraya K Kulkarni
-,TNH0430553,,97/1,43,FEMALE,R Vinayak
-,TNH2939973,Shila B Kulkarni,97/1,58,FEMALE,Balavantraya K
-276,TNH2939924,Balavantraya K Kulkarni,97/1,70,MALE,Krishnaji B Kulkarni
-275,TNHO0655555,Premarao,97/1,78,FEMALE,K R Rao
-324,TNH3580198,NISHANTH ARAKERE,135,24,MALE,PRASANNA A V
-333,TNH2500122,R Mahima,135,32,FEMALE,V Ravi Hoysala
-,L322,Onkar Hoysal,135,35,MALE,V Ravi Hoysal
-234,TNHO41,Thanushri G Bharadhwaja,135,36,FEMALE,HN Gopinathrava
-220,TNH0222430,Mamathaprasanna,135,48,FEMALE,Prasanna
-,TNHO222448,AV Prasanna,135,54,MALE,Late. Vasudevamurthy
-328,TNHO410605,Swarna Krupa,135,57,FEMALE,V Ravi Hoysal
-327,TNH3272820,Triveni G. Rao,135,58,FEMALE,H.N. Gopinath Rao
-326,TNH2939940,HN Gopinath Rao,135,65,MALE,Late HV Narayan Rao
-225,TNHO094631,Dr.V Ravi Hoysal,135,65,MALE,Late. P NV Narayana
-224,TNH3755584,KUSHAAL RAO BALUSU,134,22,MALE,SRINIVAS RAO B
-,TNH3154002,Abinay Rao B,134,28,MALE,Srinivasa Rao B
-322,TNH2642858,Jyothi Bhandari,134,38,FEMALE,Siddarth Bhandari
-324,FSYA777447,Prasanna Kumari,134,49,FEMALE,Srinivasa Rao
-,TNH2711158,Suresh B,134,54,MALE,Hanumantharao B
-,FSY4776696,Srinivas Rao,134,54,MALE,Anumantharao B
-218,TNHO164954,Raj Kumar Bhandari,134,67,MALE,Mothilal Pattay
-,TNHO222422,Sudha Bhandari,134,68,FEMALE,Sidharth Bhandari
-,TNHO221911,Sidharth Bhandari,134,69,MALE,Late Amar Chand
-315,TNH2711745,Padmavathi B,134,76,FEMALE,Hanumantharao B
-,TNHO165514,Smitha.V.M,133,42,FEMALE,"VM Madhusudhan,"
-,L238,Velu SP,133,46,MALE,Ponnaswamy S P
-212,TNHO220814,Madhusudan VM,133,47,MALE,VN Muralidhar
-,TNHO220798,Muralidhar VN,133,72,MALE,VN Narasimhaiah
-,TNHO221457,Narasimhalah VN,133,97,MALE,Narayan Swamy
-,TNH3421864,Vinod G,132,46,MALE,Gopinathan
-,TNH2677656,Rekharao,132,77,FEMALE,Chandrakantha Rao
-207,TNH2684124,Chandrakantharao,132,83,MALE,Subbarao
-208,TNH2940260,Roopa Tankasali,131/9,34,FEMALE,Balasaheb Tankasali
-205,TNH3140035,Rekha Tankasali,131/9,36,FEMALE,Balakrishna Tankasali
-357,TNH2939874,Gul Afsha Shabnam,152,28,FEMALE,MD Riyazulla Haque
-,,Mehar Taj Karavani,147,56,FEMALE,Mehar Taj Karavani
-,TNH3179785,Sadiya Aisha Abid,146,24,FEMALE,ffraz
-254,TNH3273158,Mamtha RM,139,32,FEMALE,S Rama Mohan
-353,FSY6349047,SV Pavan Koushik,139,37,MALE,S H Vasudevamurthy
-352,FSY6381305,SV Sowmya,139,39,FEMALE,S H Vasudevamurthy
-354,FSY2237675,Nagarathna R M,139,63,FEMALE,Rama Mohan S
-,FSY2218170,Padma V,139,64,FEMALE,Vasudevamurthy S H
-249,FSY2218030,Vasudevamurthy S H,139,68,MALE,SV Hanumanthachar
-248,,SV Hanumanthachar,139,92,MALE,Vasudevachar
-,TNHO220913,S J Vagish,138/16,35,MALE,S J Vagish
-,L246,CB Kalavathi,138/16,45,FEMALE,N R Sunil
-,L245,NR Sunil,138/16,50,MALE,N Rudrappa
-344,TNHO221226,Prabhath Nalini Mishra,138/16,65,FEMALE,Durga Paba Mishra
-243,TNHO221887,S Minakshamma,138/16,75,FEMALE,Late. N Rudrappa
-242,TNH3272655,kamalini parthasarthy,137/4,29,FEMALE,m parthasarthy
-,TNH3421856,Manjunath S,137,43,MALE,Srinivas
-,TNH3421849,Shilpa S,137,43,FEMALE,Srinivas
-,TNH3421872,Geetha S,137,54,FEMALE,Srinivas S
-,TNH2887214,Vanamala Narayan,136,48,FEMALE,Vijay Subramanyam
-237,TNH2696300,Vijay Subramanyam,136,49,MALE,Subramanyam
-236,TNH2711208,Viayalakshmi,136,70,FEMALE,Subramanyam
-235,TNH2696318,Subramaniam M,136,75,MALE,Muthuswamy
-,TNH3655693,Narayanappa,111/,35,MALE,Kadarappa
-386,TNH3357969,Roopa G,105,39,FEMALE,Padmanabha N
-,L325,Padmanabha N,105,44,MALE,Narayan T
-284,TNH3273109,Chakravarthi NS Thota,105/38,52,MALE,TV Prabhkara Rao
-283,TNH3198769,Asfiya Begum,102,55,FEMALE,Shaik Idris
-,TNH2282879,Diwakar J,88/36,33,MALE,Jyothoji Rao
-,TNH2940583,Ashfak Ahmed,66,71,MALE,Mohammed Jaffer
-,TNH3179942,Pyarejan,61,56,MALE,Mohammed Anwer
-379,TNH2579886,Sheeba Khanum,55/32,30,FEMALE,Syed Sajjad AHMED
-,TNH3920477,Sachin M,54/33,20,MALE,VM Manchigaiah
-377,TNH2940567,Milan P Chowdaiah,54/33,29,MALE,VM Parashivappa
-276,TNH3108644,Vaibhav N Locharla,,30,MALE,Narendra Babu B K
-,L375,Roopa Balaji,22/1,45,FEMALE,B K Balaji
-,TNHO356162,B K Balaji,22/1,47,MALE,N Krishnamurthy
-373,TNHO356154,N Vasanthi,,53,FEMALE,B K Narendrababu
-372,TNHO356147,BK Narendrababu,,54,MALE,N Krishnamurthy
-274,TNHO356170,NK Arun Jyothi,22/4,71,FEMALE,Krishnamurthy
-270,TNH3272895,Padma Raghunath,15,62,FEMALE,Raghunath K
-,TNH3272846,Raghunath K,15,69,MALE,Krishna Swamy G
-,TNH2379832,Biju B,10/05,33,MALE,J Babu
-367,TNH2711547,Gowramma,9/032,60,FEMALE,K Thimmappa
-,TNH2696292,,9/032,65,MALE,Krishnaiah
-265,TNHO356519,Ummehani,9/10,39,FEMALE,Theherunnisa
-,TNH2300945,Abdul Kader M,9/10,46,FEMALE,Abdul Kader M
-,TNHO171058,Ramakrishna R,9/10,59,MALE,Rajappa A
-,TNH2574127,Sowmyavathi. C,9,32,FEMALE,Umesh. M
-,L361,Babu,9/02,54,FEMALE,Babu
-260,TNH2250405,AS Kendaganna Shetty,4,46,MALE,Siddabasappa
-259,TNH2250397,Madevamma,4,59,FEMALE,Siddalingaswamy
-,TNH2693448,"SOAHAM PARASHTEKAR,",,41,MALE,SHANKAR
-,TNH2625176,S Ramachandran,124,51,MALE,V Sheshadri
-,TNH2939817,Devdas B Naik,124,53,MALE,Babu Naik
-45,TNH2939841,Halayya C Bellad,124,59,MALE,Channayya Bellad
-,TNH2500155,KS Sandhyavali,124,73,FEMALE,V Sheshadri
-,TNH2780708,¥ Sheshadri,124,77,MALE,H R Venkatesh lyer
-,TNH3920345,Hemavathi,123,47,FEMALE,Kempanna
-,TNH3526753,Gurukiran M,123,25,MALE,Muniraju
-,TNH2642569,Bhagyalakshmi,123,45,FEMALE,
-,TNH2642890,Muniraju,123,53,MALE,Late. Thimmaiah
-408,TNH3169463,Jyothi VN,120/6,35,FEMALE,Raghavendra M
-,TNH2656973,HARSHAN ARADHYA BV,119/65,36,MALE,"Late B N VJAY KUMAR,"
-,TNHO413625,,117/2,42,FEMALE,Shanmugam
-,TNHO411751,Saraswathi P,117/2,44,FEMALE,Papamma P
-4,TNHO411744,Rukmini P,117/2,55,FEMALE,Prakash
-403,TNH2711919,Lakshmamma,117/,58,FEMALE,Shamanna
-,TNH2642643,Krishnappa,117/,56,MALE,Marappagaundar
-404,TNH3730850,Mangalamma N,117,31,FEMALE,Venkatesh S
-,TNH1001759,Ashwini,117,24,FEMALE,Keshavamurthy
-399,TNH2642508,S Kavya,,35,FEMALE,S Venkatesh
-398,TNH2696284,Munirathna,,35,FEMALE,Srinivas
-,L297,Srinivas,117,37,MALE,Papanna
-298,TNH2642767,S Venkatesh,,39,FEMALE,R Seetharam
-295,TNH1001767,Kavitha,,39,FEMALE,Keshavamurthy
-,TNHO375675,Lakshmi,117,41,FEMALE,Raju
-,TNH3730686,Hanumakka,117,49,FEMALE,Seetharama R
-,TNH2569598,Rathnamma,117,57,FEMALE,Srinivasa
-,TNH2711679,Muniyamma,,65,FEMALE,Papanna
-,TNH2581031,Srinivasa,117,68,MALE,Veerabadrappa
-,TNH1001734,Keshavamurthy,117,75,MALE,Narasimhaiah
-,TNH3273133,Naveen BS,111/19,31,MALE,Subbarama Murthy T S
-,TNH3643533,FOUZAN KHAN,203,23,MALE,IRFAN KHAN
-,TNH3643533,FOUZAN KHAN,203,23,MALE,IRFAN KHAN
-422,TNHO409789,Leelavathi,136,90,FEMALE,A Krishnamurthi
-,TNH2940310,Vinodamma,132,70,FEMALE,Nagaraju K
-,TNH3272598,P Durga,129/40,40,FEMALE,P Purandar Reddy
-,TNH3272556,P Purandar Reddy,129/40,47,MALE,P Pulla Reddy.
-428,TNH2711869,S Ramaa Babu,128/14,55,FEMALE,Srinivas Babu K P
-,TNH2711174,Srinivasa Babu K P,128/14,60,MALE,Panduranga K
-426,TNH2696599,P Soundarya Lakshmi,128/14,79,FEMALE,Panduranga K
-,TNH2587434,,127/7,59,MALE,
-,TNH2696649,,127/4,24,MALE,Narayanaswamy
-,TNH3440997,Deepika D Jain,124,27,FEMALE,Dinesh Kumar
-,TNH2500163,Roopa Sheshadri,124,43,FEMALE,V Sheshadri
-,TNH2780690,Dr. Roopa Sheshadri,124,43,FEMALE,V Sheshadri
-,TNH3655545,,124,44,MALE,RAMALINGA N
-,TNH2940047,Anasuya Bellad,124,45,FEMALE,Halayya Bellad
-,TNH2939775,Jyothi D Naik,124,51,FEMALE,Devdas B Naik
-463,TNH2250421,SHRITHI MALAVALLI NAGARAJ,6/5,37,FEMALE,NAGARAJ MH
-462,TNH2250439,M Sudha,6/5,53,FEMALE,M.H..Nagaraj
-,TNH2250447,,6/5,66,MALE,Honegowda
-,TNH3526704,Shekar V,6/1,31,MALE,Venkatesh
-,FSY2167450,Chandrakala,5,48,FEMALE,Narender L
-,FSY2219038,Dr L Surender,5,52,MALE,Lingappa
-,,Narender L,5,56,MALE,Lingappa
-,FSY2218675,Lingappa,5,89,MALE,Nagappa
-,NH3272713,dinesh b,4,30,MALE,basavaraj
-,TNH3272747,shakunthala,4,47,FEMALE,basavaraj
-,TNH3272754,ramanna,4,59,MALE,ramanna
-452,FSY4775326,TA Vishwanathan,3,53,MALE,Ashwathnarayan
-,FSY6377436,KB Suresh,3,60,MALE,K B Sharma
-,FSY6377808,TA Shanthi,3,64,FEMALE,K B Suresh
-449,FSY4775334,TR Sharada,3,73,FEMALE,Ramaiyyer
-,TNH2902203,Rukmini,3,83,FEMALE,Shamanna
-,TNH2902211,Shamanna,3,88,MALE,Suryanarayana
-,TNH1003573,,,39,MALE,Nanjundashetty
-,TNH3802238,Chehel Mehta,,23,FEMALE,Sanjay Mehta
-,TNH3422011,Meghal Mehta,,28,FEMALE,Sanjay Mehta
-443,TNH2667236,Jhansi P,,32,FEMALE,G Prakash Murthy
-,FSY4773958,Rinku Mehtha,2,45,FEMALE,Hithesh Mehtha
-,FSY4774105,Sarika Mehtha,2,45,FEMALE,Mahendra Mehtha
-,FSY4774113,Mahendra Mehtha,2,45,MALE,Narapath Chand
-,,Hithesh Mehtha,2,47,MALE,Narapath Chand
-,FSY4773727,,2,52,MALE,Narapath Chand
-,L437,Babitha Mehtha,,53,FEMALE,Sanjay Mehtha
-,FSY4775490,Nirmala Mehtha,2,72,FEMALE,Narapath Chand
-425,FSY6351183,CV Madhusudan,1,42,MALE,CH Venkatesh
-,FSY6376863,C H Venkatesh,1,73,MALE,Hanumegowda
-,TNH1002526,,10,39,MALE,B.S.Venkatesh
-,TNH1002518,Preethi Vikram,10,43,FEMALE,B.V.Vikram
-4,TNH2711588,BV Bhanumathi,10,64,FEMALE,B S Venkatesh
-490,TNH2939999,CL Kumari,9/5,87,FEMALE,Late C L Chandran
-429,TNH1002484,Ashalatha BS,9,68,FEMALE,M C Divakar
-428,TNH1003599,Manwith D Masa Gode,9,36,FEMALE,Dr Divakar MC
-87,TNH1003581,Charitha D Masgode,9,36,FEMALE,Dr M C Divakar
-,,Chaya Ashok,9,56,FEMALE,Ashok Krishna.
-485,FSY4775987,Ashok Krishna,9,59,MALE,Jayalakshmi
-,TNH2939882,Bhagirathi Sadashivaiah,9,84,FEMALE,Late PV
-483,TNH3440971,POONAM SHET,8,30,FEMALE,ANIL KUMAR
-,FSY4774824,Sulochana,8,55,FEMALE,Srinivasamurthy
-,FSY4774527,Srinivasamurthy,8,61,MALE,H V Hirannegowda
-480,,Rukminiyamma,8,92,FEMALE,H V Hirannegowda
-479,TNH2250074,HV Hiranya Gowda,8,99,MALE,Venkategowda
-,TNH3656576,Sanjith S,08,25,MALE,Srinivasa murthy H
-,TNH3656568,Ayushmaan S,08,25,MALE,Srinivasa Murthy H
-,TNH3160959,,,28,MALE,ABDULREHMAN
-,FSY2238566,Mubin Taj,7,62,FEMALE,Syed Hafiz
-,,Syed Hafeez,7,75,MALE,Syed Yusaf
-,TNH2940252,PB Narayana Murthy,07,82,MALE,Late P Bheem Rao
-,TNH3364320,Ruksana Khanum,7,28,FEMALE,Late Shaffi Ulla
-,TNH3364312,Salma Khanum S,7,36,FEMALE,Imtiyaz Pasha
-,TNH2711778,RIZWANA AM,,37,FEMALE,MAQBOOL A
-,TNHO221085,Syed Fareed YH,7,39,MALE,Syed Hafiz
-,,Syed Waheed Y H,7,39,MALE,Syed Hafeez
-,FSY4773719,Hajira Thabassuma,7,42,FEMALE,Syed Hafiz
-,TNH3364221,Vazeer Jan,7,43,MALE,Vazeer Jan
-,TNHO221093,Mohamed Rafi,7,49,MALE,J Ruknudein
-,TNH3141249,Shravan MN,6/5,31,MALE,Nagaraj MH
-523,TNH1002609,Sreedevi Gopal,15,75,FEMALE,Srinivas Gopal
-522,TNH1002591,Hosamane Srinivasa Gopal,15,90,MALE,H. S. Venkataram
-524,TNH2250082,Dr Mahalingappa M S,14,85,MALE,Siddaramegowda M
-,TNH2711430,MM Varsha,14/4,46,FEMALE,M S Mahalingappa
-,TNH1002583,MM Varsha,14,46,FEMALE,Dr Mahalingappa MS
-,TNH2940443,H S Karthik,14/2,38,MALE,H S Kumaraswamy
-,TNH3108792,Pushpalatha KY,14/2,41,FEMALE,Karthik H S
-,FSY6348312,Bharathi V,14/2,45,FEMALE,K Ramesh Babu
-,L515,Ramesh Babu,14/2,49,MALE,Ramalingaiah
-,TNH3552270,Suvarna Raviraj Naik,14/2,50,FEMALE,Raviraj Naik
-,TNH1003615,B Ganesh,13,46,MALE,Harappa Bhaskar
-512,FSY2164556,LATHA BHASKARA,13,71,FEMALE,Bhaskar H
-,FSY2216737,Halappa Bhaskar,,81,MALE,Halappa H G
-,L510,Parvathamma,13,102,FEMALE,
-509,FSY2215937,Udaya K,12,70,FEMALE,Kannappa S
-,FSY2215945,,12,76,MALE,Sanjivirayan
-507,FSY2165405,MN Sudha,,58,FEMALE,BV Satish
-,TNH2711984,B V Satish,12,64,MALE,VK Veerappa
-,FSY2166791,VK Veerappa,12,95,MALE,Eregowda
-,TNH1002567,Anju V Satish,12,34,MALE,B V Satish
-,TNH1002559,Anuj V Satish,12,34,MALE,Satish BV
-,TNH3399599,Thayamma,12,36,FEMALE,Ashoka
-,TNH3399607,Ashoka.,12,40,MALE,Mayappa
-,TNH1002542,S.D. Nagamma,11,40,FEMALE,P.R.Srirangaiah
-,TNH2711950,PR Srirangaiah,11,58,MALE,Rangadasappa
-,FSY2218899,Sharadamma,11,66,FEMALE,V P Siddeshwar
-,TNH2587442,Kushal Kumar.A,11,32,MALE,Ananthamurthy. AV
-496,TNH3273067,Bharath Ranganath,11,35,MALE,MR Ranganath
-495,TNH2587467,Uma.BV,11,59,FEMALE,Ananthamurthy. AV
-404,TNH2587475,Ananthamurthy. AV,11,66,MALE,Late.Venkataramu.K
-553,TNH3272564,Rukmini Konada,19,40,FEMALE,Srinivas Konada
-,TNH2939643,Savitha Rani,19,40,FEMALE,Ananda Reddy
-584,TNH2711927,GR Lakshminarayan,19,42,MALE,GN Ramappa
-550,TNH2939627,Takkod Vijay Kumar,19,42,MALE,Parappa
-,TNH2939718,Anand Reddy,19,44,MALE,Govinda Reddy
-,TNH2625093,C M Srinivas,19,44,MALE,Mariyappa
-,FSY2164903,Nagaraj G R,19,55,MALE,Ramappa G N
-,TNH2711372,Ravindra,18,50,MALE,Madhavamurthy
-545,FSY4776050,Sarojamurthi,18,73,FEMALE,Madhavamurthy
-,FSY4774535,NJ Shantha,18,78,FEMALE,Jayachara
-543,TNH2780625,Mohammed Jawaad Khan S,18/1,30,MALE,S A Qayum Khan
-542,TNHO410373,S Mohammed Jubirakkhan,18/1,34,MALE,SV Kayymukhan
-,TNHO410381,Mohammed Shoyeba,18/1,37,MALE,S A Khayyuma Khan
-540,TNHOOS4664,SA Khayyuma Khan,18/1,62,MALE,S Yusaf Khan
-539,,Vishala K Murthy,,72,FEMALE,Krishnamurthy T S
-538,TNH1002641,1 S Krishnamurthy,,84,MALE,Srinivas Rao TV
-,TNH1002633,Smitha TV,17,47,FEMALE,Vasudev Rao
-536,TNH2284396,Manjula Baba Ladi,,42,FEMALE,Vithal Baba Ladi
-535,TNH2286268,Vitha Baba Ladi,,44,MALE,Bhimasen Baba Ladi
-,FSY6376495,LB Amar,16,38,MALE,L G Balasubramanya
-,L533,Manjuladevi L B,16,66,FEMALE,Balasubramanya L G
-532,FSY4773743,Balasubramani LG,16,69,MALE,Gopalakrishna Shetty
-534,TNH3927746,ABHIJIT VASUDHAR GOPAL,,25,MALE,VASUDHAR S GOPAL
-520,TNH3766763,ANANYA VASUDHAR,15,23,FEMALE,VASUDHAR S GOPAL
-,TNH2712008,Adishesha lyengar,15,35,MALE,K.G.Govinda
-,TNH1003664,Aruna Vasudhar Gopal,15,50,FEMALE,Vasudhar Gopal
-,TNH1003656,Vasudhar Gopal,15,50,MALE,Srinivas Gopal
-526,TNH1002617,Jyotsna,15,62,FEMALE,Manjunath K
-525,TNH2711638,Anuradha Govind,15,64,FEMALE,K G Govind
-,TNH2711331,K G Govinda,15,71,MALE,K Gopal lyengar
-,L523,habebunnisa,30,33,FEMALE,Syed Jameel Ur
-,L522,Karthikeyan A,26,28,MALE,Arumugam S
-,TNH3526746,Minali Giridhar Reddy,24,26,FEMALE,J Giridhar
-580,TNH3526670,Savitha Sharma,24,56,FEMALE,J Giridhar
-,TNH3526761,C J Reddy,24,57,MALE,C J Reddy
-,TNH2309607,C J Reddy,24,60,MALE,C J Reddy
-,S77,MEGHANAR,23,28,FEMALE,RAMAMURTHY
-576,TNH3755592,ANADHA N GWAR,23,37,FEMALE,NAGBHUSHAN GUJAR
-,L875,A RATHNA,23,49,FEMALE,RAMAMURTHY
-,TNH3775798,RAMAMURTHY,23,60,MALE,late ¥V APPAIAH
-,TNH3755576,,23,62,FEMALE,NAGBHUSHAN
-572,TNHO221,Uma,23,68,FEMALE,S.G.Ramachandra
-,TNHO221135,S.G.Ramachandra,23,72,MALE,S.Gopalashasthri
-,TNH3764354,ARVIND RAQ-,22,50,MALE,VELLORE
-569,SNJ2008308,Anshu Somani,21,32,FEMALE,Tarun Rathi
-568,JHV1188135,Tarun Rathi,21,33,MALE,Vijay Rathi
-,TNH2583722,H. D. Uttam,21,44,FEMALE,H. D. Uttam
-,TNH2566412,H. D. Uttam,21,48,MALE,H. B. Dharanappa
-565,TNH3461274,Ananthakrishna Murthy,21,49,MALE,Ramaiah V
-564,TNH2566966,Vijaya Dharanappa,21,74,FEMALE,H.B. Dharanappa
-563,TNH2572170,H.B. Dharanappa,21,88,MALE,S. P. Bramappa
-562,TNH3272697,Varsha. L. Kanth,19/20,29,FEMALE,V. Lakshmikanth
-564,TNH3272689,T. Koniathi Anasuya,19/20,63,FEMALE,V.Lakshmikanth
-560,TNH3272705,V. Lakshmikanth,19/20,64,MALE,G. Veeraraj
-,TNH36561,Krishna Kumara L,19,25,MALE,Late Lakshminarasima
-,TNH2939726,Pavithra,19,29,FEMALE,Keshava Reddy
-,TNH2939635,Kalpana M,19,32,FEMALE,C M Srinivas
-556,TNH2939668,Sumithra Takkoka Vijaykumar,19,34,FEMALE,Takkota Vijaykumar
-555,TNH2939700,Chennakeshava K,19,35,MALE,Krishnappa K
-,TNH2939684,Keshava Reddy,19,39,MALE,Govinda Reddy
-,TNH2711620,Poornima G Gurumurthy,80,41,FEMALE,KJ Chetan
-,TNH2711828,Kirankumar,80,45,MALE,Dr Gurumurthy
-,FSY2234755,S Kumari,80,56,FEMALE,S Sureshbabu
-,,S Suresh Babu,80,66,MALE,C Shyamu
-609,,SG Shashikala,80,68,FEMALE,Dr Gurumurthy
-,FSY2165801,PA Vimala,80,88,FEMALE,Late
-607,TNHO407692,S Poornima,80/,35,FEMALE,S Suresh Babu
-,TNH3656071,ESHWAR S,80/,23,MALE,SURESH BABU S
-,TNH3803780,Nitish Ranjan,,31,MALE,Nagendra Prasad
-,TNH2940492,Sambhram C S,79/,31,MALE,Shantha Shiva Prasad
-603,FSY6349070,Shantha Shivaprasad,79/,60,FEMALE,Dr C A Shivaprasad
-602,TNHO409854,NSrishti,79/,35,FEMALE,Shivaprasad
-604,TNH1002807,Baskar Rajasekharan,79/,50,MALE,Rajasekharan
-600,TNH1002799,Uma Rajasekharan,79/,80,FEMALE,Rajasekharaan P R
-599,TNH2940781,Sugavana Selvi,79/,47,FEMALE,Selvakumar
-,TNH2940799,Selvakumar,79/,48,MALE,M Arumugam
-597,TNH3862628,Vishnu Vardhan Raju,79,40,MALE,Chikkaiah Raju
-596,TNH3127883,Aritha G,79,39,FEMALE,Hemanth Prasad
-,,D Shanthi,79,44,FEMALE,S Ramakrishna
-594,TNH2711349,Krishna Prasad G R,73,82,MALE,Grama S R
-593,FSY2165793,J Lakshmi,69,59,FEMALE,P A Suresh
-,FSY2218105,PA Suresh,69,64,MALE,PN Anantha.
-,TNH3504305,PRASHANTH V,,37,MALE,VIDYA SHANKAR B K
-,TNH3682572,K SHRUTHI,54,27,FEMALE,K JAYACHANDRA
-,TNH3108578,Gazala Mehboob,49/3,42,FEMALE,Abdul Mudasir
-,TNH3813169,,47,36,FEMALE,Balaji Kumar
-,TNH3421831,Qamar Taj,46,53,FEMALE,Mustaq Anmed
-586,TNH3580149,THRIVENI BV,45,25,FEMALE,SATISH V
-585,TNH3051653,SUVARNA KAMATH,,62,FEMALE,Suresh Kamath
-584,TNH3040490,SURESH KAMATH,,67,MALE,Marthappa Kamath
-,TNH1002310,T L Nagappasetty,85,92,MALE,A Lakshman Setty
-,TNH3421963,SHIVAPRASAD GAONKAR,,37,MALE,CHANDRASHEKHAR
-,TNH2642775,Faris Sahema,83,35,MALE,Humahin Jamid
-,TNH1002880,Maya Ayn,83,38,FEMALE,Humayun Javid
-829,FSY4775060,Mohasin Akhtheri,83,64,FEMALE,Dr Humayuna Javed
-828,FSY4775052,Dr Humayun Javed,83,69,MALE,Ahmec Ulla Sharit
-637,TNH3421922,Shakeeb Ahmed Khan,82/30,28,MALE,Amjad Ulla Khan
-,TNH2780377,Faiz Ahmed Khan,82/30,29,MALE,Amjad Ulla Khan
-,TNH3518750,Reshma,82/30,36,FEMALE,Rahmath Ulla Khan
-624,TNH2940179,Rahmath Ulla Khan,82/30,38,MALE,Amjad Ulla Khan
-633,TNH2780724,Jubair Ahmed Khan,82/30,32,MALE,Amjad Ulla Khan
-632,,Asma Begaum,82,52,FEMALE,Amjad Ulla Khan
-,FSY2166080,Amjad Ulla Khan,82,72,MALE,B R Ibrahim Khan
-630,TNHO096180,Aajmatha Ullakhan,82/3,37,MALE,Aamjal Ullakhan
-629,TNH1002823,R.M.Sajjad Hussain,82/2,59,MALE,R.Mliyas
-,TNH3273083,Waseemulla Khan,82,47,MALE,Kaleem ulla Khan
-,TNH3272580,Waseemulla Khan,82,48,FEMALE,Waseemulla Khan
-,TNH2656908,Parvin Taj,82,57,FEMALE,Syed Fairoze
-625,TNHO220848,Jyotsana Parihar,81/,43,FEMALE,Kishore Parihar
-,TNHO220764,Kishore,81/,48,MALE,Prahladkumar
-623,TNHO221119,Manoramma Parihar,81/,70,FEMALE,C Prahladkumar
-,TNHO221101,C Prahladkumar,81/4,75,MALE,Chunilala
-,TNH3538675,Syed Mastan Ali,81,45,FEMALE,Syed Mastan Ali
-,TNH2940518,Shabanam,81,45,FEMALE,Shafiulla Mohammed
-,TNH2940369,Deepak,81,46,FEMALE,Deepak
-,TNH2940278,Deepak S,81,47,MALE,Satya Jeevan Ram
-,TNH3730967,VEDAVATHY,81,81,FEMALE,D SATYA.
-,TNH2940112,Satya Jeevan Ram,81,89,MALE,Damodar
-,TNH3725918,DRBN,,64,FEMALE,DRBN
-,TNH3725959,BN LAKSHMI KANTH,,75,MALE,K N NARAYAN
-,L673,Chethanya,88/36,37,MALE,S Ashok
-872,TNH2711604,Omkar Solapurakar,88/36,38,MALE,Ashoka
-,TNHO356949,Santhoshakumara,88/36,41,MALE,Shankarachary
-,TNH1003037,A.Kalidas,88/36,42,MALE,A.Kalidas
-,TNH3273034,Sampat Kumar Sharma,88/36,43,MALE,CM Sharma
-88,TNH1003029,K.Chetan Kalidas,88/36,44,MALE,A.Kalidas
-,L667,Veeresh,88/36,47,MALE,Sharanappa
-8,TNH1003003,Padma Kalidas,88/36,55,FEMALE,Kalidas A
-,TNHO356931,Rajeshwari,88/36,56,FEMALE,Shankarachary
-,S64,SZubeida,88/36,61,FEMALE,Syed Thajuddina S
-,FSY6346296,,88/36,62,MALE,Mehaboob Sab
-862,TNHO356790,Shankarachar,88/36,69,MALE,Ramachar
-,TNH0165340,A. Kalidas,88/36,78,MALE,S.N.Appanna
-,TNH2711844,Shivakumar,88/36,84,MALE,
-659,TNH2642593,Aashashasthri,87,54,FEMALE,Seetha Ramashastri
-858,TNH271,Seetha Ramashastry,87,65,MALE,Vasudevashasthri
-,TNH2642577,Janakamma,87,102,FEMALE,Vasudevashasthri
-,TNH3802501,Srikanth AR.,85,26,MALE,Ramesh BN
-656,TNH2940237,Ramyashree N K,85,29,FEMALE,Krishnamurthy NV
-,FSY6349377,TR Varun,85,38,MALE,T P Ramalingaiah
-,TNH3507050,Santhosh Huchayya Vastrad,85,41,MALE,Huchayya Rachayya
-,TNHO091579,Prashanth,85,49,MALE,Subbarao ¥ K
-854,TNH1002336,Ashwini Ramesh,85,51,FEMALE,Ramesh BN
-,TNH1002328,BN Ramesh,85,53,MALE,T L Nagappa Setty
-,TNHO222489,Latha R Gupta,85,58,FEMALE,Ramalingaiah Gupta
-,TNH2940211,Kamala,85,59,FEMALE,Krishnamurthy NV
-,TNH2940104,Krishnamurthy NV,85,65,MALE,Late M Venkannachar
-,TNH2711448,Savithri,85,76,FEMALE,Subbarao Y K
-,,Shanthamma N,85,82,FEMALE,T L Nagappa Shetty
-,TNHO091520,Subbarao ¥ K,85,89,MALE,Krishnarao ¥Y R-
-,TNH2939866,M Basha.,134,40,MALE,Abdulla
-702,TNH2940732,K Chamdrashekhar,130/2,57,MALE,K G Krishna Shetty
-704,TNH3272978,Madhusudan Gadwalkar,129/40,35,MALE,Narasappa Gadwalkar
-700,TNHO373480,Prathibha L Harish,129/40,45,FEMALE,LG Harish
-,TNHO373498,L G Harish,129/40,47,MALE,LV Govindaraj
-698,TNH3108743,NIKITASHA HAVAL,,37,FEMALE,SANTOSH KUMAR
-,TNHO414094,A Anjubargavi,126,24,FEMALE,N Amaranath
-,TNHO359422,Sanjan Thejaswi,126,42,FEMALE,Thejaswi
-,TNH2500221,Pavan Kumar BV,122/,33,MALE,B K Vijay Vittal
-,TNH2500213,,122/,70,MALE,B Krishnamurthy
-693,TNH3108750,Sakamma,1241/7,97,FEMALE,Late Seenappa
-,TNH3507043,,119/5,45,FEMALE,FAKKIRESH
-,TNH3857877,Parvathi,,37,FEMALE,Munindra
-690,TNH3421948,Mageeda Begum,,51,FEMALE,Ismail Khan
-629,TNHO431049,Kavipriy,106/39,39,FEMALE,.Shravanakumar
-,TNHO430900,K Shravanakumar,106/39,46,MALE,A. Kalimuthu
-,TNH3766011,RAGAPRASAD N,105/38,22,MALE,RAGHAVAN V
-,TNH3666674,THOTA SAI SRI LALITHA,105/38,25,MALE,T N S CHAKRAVARTHI
-685,TNH3273000,Sandhya Rani Thota,105/38,32,FEMALE,TN S Chakravarthi
-684,,Balajkumar BS,102,41,MALE,B Srinivasan
-683,FSY2216760,Lakshminarayan S,102,60,MALE,Subbaiah
-,TNH0168138,Kushraj Patil,102,64,MALE,Neelakantha Rao
-,TNHO356741,Anitha Madhav,100,53,FEMALE,Dr S Madhava
-,TNH3272606,aiswarya g,20,28,FEMALE,gowri prasad h s
-,TNH3755519,ANANYA S URS,91,23,FEMALE,SOWMYA B M
-,TNH2940666,Renuka VR Rathod,91,44,FEMALE,Valu Rathod
-,TNH2940658,Valu Rathod,91,51,MALE,Jemlu Chavan
-,TNH3273059,Menta Hanumanth Abhilash,88/36,34,MALE,M Satya Narayana
-875,TNH3273117,,88/36,34,MALE,Chandrasekharan
-,S74,Santhosh Badam,88/36,34,MALE,Prakasa Rao Badam
-,TNHO367979,Sandip M Jen,150/45,39,MALE,Manamala Jain
-732,TNHO429183,Hemalatha K Jain,150/45,39,FEMALE,Kunal M Jain
-2,TNH2711166,Kishore M Jain,150/45,40,MALE,Manmal Jain
-,TNHO373860,Kunal M Jain,150/45,42,MALE,Manamala Jain
-729,TNHO429175,Nim M.Jain,150/45,60,FEMALE,Manmala Jain.
-728,TNHO367961,Manamala Jain,150/45,69,MALE,Javira Chand Jain
-,TNH1003284,Majida Parveen,149/144,47,FEMALE,Ziauddin
-,TNH2250470,,149/3,36,FEMALE,R Hanumanthappa
-725,TNH2250462,R Nagarathnamma,149/23,61,FEMALE,R Hanumanthappa
-724,TNH2250454,R Hanumanthappa,149/3,68,MALE,Late Ramappa
-,TNH1003243,Shama,149,40,FEMALE,Rizwan Pasha
-,TNH0092676,Sandeep H,149,41,MALE,Hanumanthappa R
-724,TNH1003250,Mohammed Zia Uddin,149,51,MALE,Mohammed Salauddin
-720,TNHO414243,Shobha,149,52,FEMALE,Padmanabha
-,TNHO35631,Padmanabha,149,55,MALE,Kenchaiah
-,,Fasiya Thabusama,144,43,FEMALE,Mohammed Althaf
-,TNH1003219,Nikhilwi. Bhata Bhat,143,40,MALE,Vinoda M
-76,TNH0654566,Jignasodi Bhat,143,42,FEMALE,Dipak B
-,TNH1003201,Dipak B. Bhat,143,46,MALE,Bipin.M. Bhat
-,L714,Malashankar,143,66,MALE,Malashankar
-713,TNH1003185,Daksha V. Bhat,143,70,FEMALE,Vinoda M
-2,TNH1003177,Jyothi B. Bhat,143,72,FEMALE,Bipin.M.Bhat
-,TNH1003169,Vinoda M. Bhat,143,73,MALE,Malashandar
-,TNH1003151,Bipin. M.Bhat,143,81,MALE,Malashankarabhat
-,TNH1003128,Priyanka,141,38,FEMALE,Madhusudan
-,TNH3461332,R Madhusudhan,141,68,MALE,K Rajarao
-,TNH3461514,S.Karthik,140,42,MALE,K.Srinivasa
-706,TNH3088598,Nalini,140,65,FEMALE,K Srinivas
-,,K Srinivasan,140,80,MALE,Krishnamachara K
-704,TNH2711190,RM.Priyanka,139,37,FEMALE,Ramamohan
-763,TNH2642601,Savitha,,62,FEMALE,Dinesh
-,TNH2711729,Dr. CN Dinesh,172,67,MALE,C K Nagaraju
-,TNH2712644,Parvathi Devi,,90,FEMALE,C N Upavarsha
-,TNH2684264,N Lakshmidevi,170,75,FEMALE,KS
-,TNH2587459,Guru Prasad.K.P-,170,44,MALE,K.S.Parameshwaraiah
-758,TNH2642791,KS Parameshwaraiah,170,80,MALE,K R Seetharamaiah
-757,TNHO414128,NAannapurn,170/,71,FEMALE,RK Prabhakar Ram
-,TNHO407189,Ashwini M Rattihalli,170/,39,FEMALE,Praveen Prabhakar
-755,TNHO436089,Praveen P,170/,44,MALE,Prabhakar Ram
-,TNH3272986,Nveen P,170/,36,MALE,Dakshayani G
-,TNH2780609,,170/,37,MALE,K Huchaiah
-,TNH2780583,Varadaraju H,170/,40,MALE,K Huchaiah
-,TNH2780617,Lokesh H,170/,41,FEMALE,Lokesh H
-,TNH2780716,Lokesh H,170/,43,MALE,K Huchaiah
-,TNH3273042,Naina P,170/,24,FEMALE,Dakshayani G
-,TNH2656890,N Mahesh Kumar,169/3,34,MALE,A Nagaraj
-,FSY2166726,Ramalakshmamma,169,49,FEMALE,Srinivas
-7,FSY2216778,Gowramma,169,55,FEMALE,Lakshminarayan S
-,,BV Arun,168,62,MALE,Bhagavantharao D S.
-7,TNH2711398,B Padmavathi,168,89,FEMALE,Bhagavantharao D S
-73,TNH2500205,Nidhi Gowtham,161,33,FEMALE,Gowtham
-7,TNH3461522,Usha Srinivasan,160,67,FEMALE,B Srinivasan
-7,TNH0168963,Janvi,160/2,33,FEMALE,Kushraj
-,TNH0168955,,160/21,56,FEMALE,Kusharaj
-,TNH2711216,,160/2,66,MALE,Nilakantarao
-,TNH2625127,Darshan S,159/1,41,MALE,JN Sridhara Murthy
-,L737,Shruthi Darshan,159/1,41,FEMALE,Darshan S
-726,TNH2625101,M Meenakshi,159/1,62,FEMALE,J N Sridhara Murthy
-725,TNH2625028,DR. JN Sridhara Murthy,159/1,69,MALE,J N Nanje Gowda
-,TNH3273125,Sriharsha BV,157,27,MALE,B V Venkataramu
-,TNH3273141,Dakshayini G,1704/1,57,FEMALE,Puttaswamy G S
-,TNH3092384,ambareesha ambresh,494,28,MALE,stiramappa ramappa
-,TNH3761202,ANAND G,301/19,52,MALE,GURURAJA RAO-
-,TNH3761194,SMITHA NC,301/9,46,FEMALE,ANAND G
-,TNH3272572,,301,46,MALE,Venkataram Naidu
-,TNH2939809,G Revathi,183,48,FEMALE,Krishna Kulkarni
-,TNH2939742,Krishna Kulkarni,183,60,MALE,Jai Rao
-770,TNH2940161,Vishnu R Srivaths,174,30,MALE,B R Ravindra
-,TNH2711802,Shashank Shrivastha,174,34,MALE,B.R.Ravindra
-,TNH2711307,Priyanka,173,35,FEMALE,K.S.Chidananda
-,TNH2711380,Shobana Chidanand,173,69,FEMALE,Dr Chidanand
-,TNH2711497,Dr. Chidanand,173,74,MALE,Late. Narasimhaswamy
-765,TNH2642650,Nishanth Vishwanamithra,,33,FEMALE,CN Dinesh
-764,TNH2642783,Priyanka Dinesh,,38,FEMALE,C/N Dinesh Da
+id;voter_id;name;house_number;age;gender;parent_or_spouse_name_only
+20;TNH3552262;Jtender Kumar Singh K;46;66;MALE;Rajkumar Singh
+8;TNH3421906;Aslam Uddin;18;28;MALE;Bodrul Hoque
+28;TNH3421898;Romij Uddin Choudhary;18;32;MALE;Junab Ali Choudary
+77;TNH2625077;Suma B;17/;34;FEMALE;Late Vishnu Bahaddur
+26;TNH2625085;Sharadamma;17;55;FEMALE;Late Vishnu
+25;TNH3874401;;;41;FEMALE;Faziur Reheman
+4;TNH3518768;Huda Fathima;14/3;25;FEMALE;Mohammed Afzal
+23;TNH3508488;Mohammed Mahabubunnisa;14/2;43;FEMALE;Shaik Abdul Basha
+2;TNH3508496;Shaik Abdul Basha;14/2;46;MALE;Shaik Jan Ahammed
+470;TNH3508470;Mohammed Ashraf Unnisa_;14/2;61;FEMALE;Mohammed
+20;TNH3364395;Heena Kausar;14/1;28;FEMALE;Zameer
+19;TNH3364361;Fareeda;14/1;32;FEMALE;Mubarak Pasha
+346;TNH3364346;Mubarak Pasha;14/1;33;MALE;Abdul Rasheed
+135;TNH2625135;Vidhya NR;14/1;35;FEMALE;Reddappa N G
+379;TNH3364379;Zameer S;14/1;37;MALE;A Saleem
+16;TNH2250264;Sabiha Begam;14/1;39;FEMALE;Mahamadakrama
+14;TNH2625168;Ramya Sudha NR;14/1;39;FEMALE;Reddappa N G
+8;TNH2625044;DR. Manimala;14/1;42;FEMALE;
+12;TNH2250272;Mahamadakrama;14/1;50;MALE;Abduljabdara
+915;TNH3859915;K Lakshmi;;48;FEMALE;Krishna Murthy
+0;TNH3629789;RAJALAKSHMIR;11;26;FEMALE;RAMANJANAPPA
+9;TNH2374395;R Lakshmidevi;14;44;FEMALE;K Narayana
+8;TNH2374387;;11;47;FEMALE;Late.
+379;TNH2374379;K Narayana;11;61;MALE;Late. Krishnappa
+361;NH2374361;Rathnamma;11;76;FEMALE;Late. Krishnappa
+274;TNH3437274;Mohan;9;32;MALE;Jayanthi N
+903;TNH3187903;Prathyusha A;7/2;27;FEMALE;Anand S Y G
+3;TNH3655495;RM basha.;5;84;MALE;Abdul Rahim
+2;TNH3272549;Vishwanath G;4/18;50;MALE;Gangaral
+4;TNH3272531;;4/18;67;MALE;Late Munimasthi
+53;TNH3526647;Noor Ayesha;454;25;FEMALE;Sab Jan
+639;TNH3526639;Sab Jan;454;57;MALE;Peer Sab
+54;TNH3657004;Anusuya Bai R;302;23;FEMALE;Narayan Rao V
+50;TNH2587293;Venkataramu.G;170/;31;MALE;Late. Gurumurthy
+49;TNH1000421;Mangalamma;170/;51;FEMALE;Late Guru Murthy
+489;TNHO415489;Rekha;170;34;FEMALE;Kumar K
+7;TNH2642809;Nagarathna;170;35;FEMALE;Kumar M
+679;TNHO415679;Kumar K;170;40;MALE;Krishnappa T
+908;TNH0657908;Kumar M;170;48;MALE;
+280;TNH2250280;Chikkathayamma;170;58;FEMALE;Krishnappa
+254;TNH3552254;Varun VB;166;27;MALE;Brahma Prakash VS.
+2;TNH3421930;Habeebunnisa;148/3;58;FEMALE;A'S Ameer Jan
+914;TNH3421914;AS Ameer Jan;148/3;64;MALE;Abdul Azeez
+40;TNH2939767;Padmini G;132;30;FEMALE;Gundappa N
+29;TNH3399581;Narayanamma;129/40;68;FEMALE;Munirathnam Reddy
+28;TNH3856804;Reshma banu;;28;FEMALE;Syed mansur
+27;TNH1000371;Akkayamma;113;85;FEMALE;Thirumalaiah
+36;TNH3755832;SOWMYA BM;91;45;FEMALE;MOHAN KUMAR.
+25;TNH2250025;M Manohar Prasad;79;78;MALE;KM Prasad
+34;FSY2217008;Hemanth Prasad M;79;44;MALE;Manohar Prasad M
+23;;Uma Prasad;79;69;FEMALE;M Manohar Prasad
+391;TNH391;Selva Kumar;54;43;MALE;Nagaraj
+144;TNH3554144;Inderjeet Jitender Singh;46;32;MALE;K Jitender Kumar Singh
+83;TNH2656932;RIYAZULLA;24/6;41;MALE;ALI SAB
+363;TNH2250363;Kirankumar A;24/6;42;MALE;Ashwathanarayana
+81;TNH2250355;Sharadamma;24/6;58;FEMALE;Ashwathanarayana
+799;TNH2290799;Minnakaiah;24/6;79;MALE;Minnakaiah
+79;TNH3814423;Shama Taj;;35;FEMALE;Tanveer Ahmed
+633;TNH2780633;Lavanya K;20/10;30;FEMALE;Kodandarama V
+7;TNH3421997;Mangala Gowri B M;;27;FEMALE;Mallikarjunaiah
+76;TNH3800208;Amrutha BR;19;28;FEMALE;Ramachandra V
+7;;Pavithrarao TV;17;42;FEMALE;Vasudevarao T S
+4;TNH3449766;Giri Darshan;16;26;MALE;Chandrappa
+639;TNH2292639;Padma;16;47;FEMALE;C Chandrappa
+78;TNH2291078;;16;59;MALE;Late Balegowda
+812;TNH3272812;Balu Rawal;13;38;MALE;Gagan Rawal
+70;TNH2296069;Pooja Bhati;;35;FEMALE;Ravikumar Bhati
+69;TNH2295541;Ravikumar C Bhati;;41;MALE;Champalal Bhati R
+88;TNH2295558;Champalal Bhati R;;67;MALE;Raghunatmal Bhati
+7;TNH2711935;B V Vikram;10;44;MALE;VS Venkatesh
+266;TNH3461266;Dr M C Divakar;9;72;MALE;Late Chennaveeraiah
+65;TNH3461258;MR Sumangala;9;96;FEMALE;Late Chennaveeraiah
+752;TNH2711752;Raju;7/1;48;MALE;Venkata Ramaraju
+83;TNH3920469;Gowtham P;6/19;22;MALE;Prashanth Babu
+2;TNH3857885;SYED AMEEN;;22;MALE;WAJID S A
+31;TNH3731031;;5/1;54;FEMALE;late VENKATESHA A
+8;TNH2583300;Geetha;5;36;FEMALE;Suresh
+692;;Dr Prathibha Rani S;05;47;FEMALE;Dr. Surendra L
+20;;Sudha L;05;57;FEMALE;Dr V R Devaraj
+87;TNH3399623;Basavalinga Swamy B;4/18;41;MALE;Basavaiah
+56;TNH271;Shwetha Jagadeesh;01;40;FEMALE;J R Saligram
+55;TNH2711109;Shila Jagadeesh;01;70;FEMALE;J R Saligram
+54;TNH2711125;JR Saligram;01;72;MALE;Ramaswamy
+113;TNHO221796;RD Shruthi;156/6;39;FEMALE;A Ramesh
+112;TNHO221812;Rashmi Ramesh Doddamane;156/6;41;FEMALE;A Ramesh
+39;TNH2940039;Swetha Chavadi;153;37;FEMALE;Chanabasappa
+0;TNH2939825;;153;43;MALE;Veerabhadrappa
+109;TNH3108636;Abhilash Vinayaka A |;152;31;MALE;A P Indushekar
+8;TNH2780666;Sandhya AS;152;54;FEMALE;AP Indu Shekar
+107;TNH3108586;Veena N;152;57;FEMALE;AP Indushekar
+106;TNH0094623;AP Indhushekhara;152;62;MALE;Puttaram
+105;TNHO409441;MS Chudamani;152;83;FEMALE;Late. A S Puttaram
+4;TNH2642516;V Shrinivasamurthi;151;36;FEMALE;V Shrinivasamurthi
+3;TNH2642684;Rajesh;151;41;FEMALE;Rajesh
+2;TNH2711505;Sushma Rao;151;45;FEMALE;Rajesh
+106;TNH2500106;Rajesh;151;50;MALE;Jayabharathi
+100;TNH2642734;Rajesh;151;51;MALE;Chikkaswamy
+99;TNH2642759;Lathamurthy;151;61;FEMALE;V Srinivasamurthy
+98;TNH2642627;V Shrinivasamurthy;151;71;MALE;Venkatappa
+7;TNH3775749;SHEKAR R;139;48;MALE;RAMACHANDRAPPA
+6;TNH3143369;YS Kavya Shree;90;29;FEMALE;K Siddaraju
+95;TNH1000553;Maumantanstrita Vimala Ganesh;77/3;54;FEMALE;B Ganesh Babu
+94;TNH1000546;Mtaunstrita Ganesh Babu;77/3;61;MALE;S . B Sharm
+93;TNH1000538;Minauna Street S.B. Sha;77/3;103;MALE;Late. T K S Aiyyar
+345;FSY2218345;Jyadeepa G;37;44;MALE;Ganapathraj C
+239;FSY4776239;M Janardhana;26;48;MALE;M Muniyappa
+90;TNH2939791;Manjula;26/2;32;FEMALE;Nataraj
+8;TNH2250371;L Aasha;26/1;49;FEMALE;T Muththurama.
+389;TNH2250389;T Muththurama;26/1;55;MALE;M Thimmayya
+615;TNH3399615;Shabeer Ahmed;25/4;26;MALE;Ibrahim
+86;TNH2656940;SHAWAZ;24/6;32;FEMALE;RIYAZULLA
+85;TNH2656825;FARIDA BANU;24/6;33;FEMALE;MUJIB AHMED
+4;TNH2656833;MUJIB AHMED;24/6;39;MALE;ABDUL BASHIR
+716;TNH2940716;Savithramma K;349;94;FEMALE;Krishna Reddy
+20;TNH2940708;M Krishna Reddy;349;102;MALE;Muniswamy Reddy
+128;L128;Rahul AN;302;24;MALE;Anusuya Bai R
+8;FSY5942537;Venkatappa;212;56;MALE;Venkatappa
+7;TNH2571529;R.Mahesh;211/;57;MALE;
+126;;Anjana Chidananda;173;44;FEMALE;Dr K N Chidananda
+125;FSY4774337;Leelavathi P;164;55;FEMALE;Venkateshamurthy
+124;FSY4774329;Venkateshamurthy;164;62;MALE;Ganeshaiah
+123;FSY4773685;Dhwarakanath;164;57;MALE;Nanjunda Shastry
+122;;Krishnaveni;;57;FEMALE;M G Satish Babu
+124;FSY2165686;MG Satish Babu;162;68;MALE;MR Gajapathi
+120;;Viayalakshmi;161;65;FEMALE;M Gopinath
+533;FSY2219533;;161;73;MALE;Madhavarao S-
+5;TNH2940005;Gandam Rakesh Deva Kumar;158;33;MALE;Gandam Narasaiah
+530;TNH0165530;BP Meena;157;60;FEMALE;B K Venkataramu
+522;TNHO165522;B K Venkataramu;157;67;MALE;Late. BA
+8;TNHO221465;K V Yashodamma;157;90;FEMALE;Late. BA
+114;TNH0166025;Dhiraj Kumar. R.D;156/6;39;FEMALE;A Ramesh
+164;TNH2584712;vatsala rao .k;97/1;70;FEMALE;narasimha rao
+160;TNH2579449;narasimha rao;97/1;74;MALE;venkata rao
+159;TNH3766318;Shubha M Kamat;56;34;FEMALE;Prakash M Mahale
+529;TNH2892529;Shekhar V;37;30;MALE;Venkatesh
+7;TNH2892511;Manjula M;37;49;FEMALE;Venkatesh
+86;TNH3856267;S MUJAMMIL;35;24;MALE;MAHABOOB BASHA
+185;L185;C Krishnappa;31/1;54;FEMALE;C Krishnappa
+247;TNH3364247;C Krishnappa;31/1;64;MALE;
+183;L183;Mukunda R;28/50;32;MALE;Rangappa
+8;TNH2940500;Surya;28/50;24;MALE;S S Nayak
+154;TNH2940377;Sahana HK;27;35;FEMALE;Krishnappa Gowda
+0;TNH3108677;Masuda D;26/1;40;FEMALE;D Usman
+468;TNH2940468;Goutham HM;25;28;MALE;Mariyappa K
+736;TNH1000736;Velachi;23;74;FEMALE;Kuppaswamy
+728;TNH1000728;Kuppaswamy;23;78;MALE;Chinnaswamy
+6;TNH2310068;Santosh;20;56;FEMALE;B Champalal
+45;TNH2310050;B Champalal;20;59;MALE;Late Bikam Chand
+4;TNH3800497;Prasad RL;19;27;MALE;Ramachandra V¥
+435;TNH2940435;Laxmi Rawal;12/1;36;FEMALE;Janak Bahadur
+2;TNH3144839;Libina TP;10;43;FEMALE;Mohan M
+337;TNH3166337;Mohan M;10;50;MALE;Unnicharu
+329;TNH3920329;MANOJ R;;21;MALE;RANGARAJU
+139;TNH3866100;Mubarak Sharift;9;21;MALE;Rafiullf Sharift
+138;TNH2939908;Rafiulla Sharit;9;53;MALE;Zakiulla Sharit
+7;TNH3761764;AKASH R;5;25;MALE;RAVI KUMAR HN.
+6;TNH2780641;Radha N;5;48;FEMALE;Krishna M
+25;TNH3655578;KRISHNA M;5;59;MALE;LATE MUNIYAPPA,
+334;TNH3843513;ROHIT KUMAR M.;;23;MALE;
+33;TNH3755972;BHAVYA SHREE M;3;22;FEMALE;MANOHARA A
+132;TNH2940385;Subhash Kumar;2/15;32;MALE;Motilal
+194;TNH2656817;CHANDRASHEKAR K;147;80;MALE;RAMACHANDRA RAO.
+190;L190;Rudramma_;147;88;FEMALE;SK
+129;TNHO353789;Ipharaj Rehaman;146;38;MALE;M A.Rahamana
+198;;Parivij Rehaman;146;44;MALE;Rehaman MA
+7;TNHO220715;Huzail Anmed;146;46;MALE;Shabbir Anmed
+196;;lrashad Rehman;146;64;FEMALE;MA Rehman
+5;FSY2166627;MA Rehman;146;74;MALE;Abdul Malik
+184;TNH2647378;Roopa;145;67;FEMALE;Mallikarjunaiah
+183;FSY2221737;Marsivittekara;144;79;FEMALE;Sytanlyi Vittekara
+182;FSY4774543;Naziya Musarath;144;41;FEMALE;MA Rehaman
+184;FSY2166148;Rama Satish;144;68;FEMALE;SB Satish
+0;TNH2711182;SB Satish;144;68;MALE;Bachegowda
+648;TNHO221648;Devaiah PB;144/1;36;MALE;Bopanna PT
+705;TNHO377705;RaviR;144/1;38;MALE;Rachaiah S bn
+549;TNHO221549;S.S. Charan;144/1;39;MALE;S. B. Sathish
+176;TNHO221408;Mrs P.S.Bopanna;144/1;71;FEMALE;Bopanna PT
+5;TNHO221390;Thimmaiah P M;144/1;72;MALE;Thimmaiah P M
+4;TNHO221127;S.B.. Sathish;144;43;MALE;S.B.. Sathish
+173;L173;Abhijit Halder;144;46;MALE;Manoranjan Halder
+972;L972;AVINASH UMMADISINGU;142;30;MALE;GOPALAKRISHNA
+4;;Chayadevi R;142;73;FEMALE;Ramanathan
+70;;Ramanathan C;142;84;MALE;Chinnaswamy
+169;TNH2940542;Shreyas Madhusudan;141;30;MALE;R Madhusudan
+168;TNH2940187;Nikita Madhusudan;141;32;FEMALE;R Madhusudan
+167;L167;Meena Shyam Sundar;141;59;FEMALE;R Shyam Sundar
+168;TNH3461340;Nanda Madhusudhan;141;62;FEMALE;Madhusudhan
+65;TNH3461290;Shri Hari;140;54;MALE;Sheshadri
+164;TNHO410456;Jayalakshmi;140;79;FEMALE;Sheshadri
+163;TNH3875622;Hiranaiah H;;47;MALE;Hanumappa
+362;TNH3870151;Venkatesh G;;46;MALE;Gurumurthy
+705;;Salmana Pasha;149;43;MALE;Abdul Rof Khan
+4;FSY2164655;;149;48;MALE;Abdul Rof Khan
+203;FSY2165090;Mahaboob Jhon Salma;149;68;FEMALE;Abdulrappa Khan
+202;FSY2217362;Abdul Rof Khan;149;81;MALE;Abdul Rasheed Khan
+201;TNH2289213;Manjula;149;42;FEMALE;Nagaraju
+200;TNH2289205;Susheela;149;42;FEMALE;JV Venkatesh
+198;TNH2288694;R Nagaraju;149;45;MALE;Ramayya
+198;TNH2288686;J ¥ Venkatesh;149;49;MALE;
+97;FSY2166338;C M Venkatesh;148;59;MALE;C A Manjegowda
+198;TNH2365468;Jayalakshmi K M;148;61;FEMALE;Manjappa Gowda
+198;FSY4775615;Balasubramanya Kumar;147;47;MALE;SK Veerabhadrachar
+194;FSY2217875;Chandrika.;147;55;FEMALE;Rama Murthy
+13;FSY2217446;Suma V;147;56;FEMALE;S K Veerabhadrachari
+192;FSY2217438;Mahima V;147;58;FEMALE;S K Veerabhadrachari
+235;TNH3364338;Somashekhar;25;36;FEMALE;Somashekhar
+234;TNH3364353;Somashekhar N;25;45;MALE;TN Nagaraj
+223;TNH3421955;Kanakadri V;23;33;MALE;Late Venkata Swamy
+232;TNHO354753;K Kannan;23;41;MALE;Kuppaswamy
+2;TNH2625119;Krishna Narayana Rao;23;62;MALE;C K Narayana
+230;TNH3272903;K Kannan;21;43;MALE;K Kannan
+229;TNH1001056;P-Rajtha;21;43;FEMALE;Vasudeva Naidu
+228;TNH1001064;V.Vasudeva Naidu;21;47;MALE;V.Keshavalu Naidu
+227;TNH2570885;Shankarappa .D. K;19;40;MALE;Kumara swamy
+226;TNH2378677;Ramesh;19;42;MALE;Basanagowda
+25;TNH2371904;Ashok T;19;43;MALE;Guddappa T
+224;TNH1001049;R.Prasad;18;56;MALE;Ramaiah
+223;TNH3364213;Geetha S;17;24;FEMALE;Sabhapathy
+222;TNH3364262;Mamatha S;;39;FEMALE;Sabhapathy
+224;TNH3364296;Munirathnamma;;58;FEMALE;Sabhapathy
+220;TNH3364270;Muniraju;17;64;MALE;Muniraju
+219;TNH2780302;Nabeela Afreen S;8;29;FEMALE;Shuyeeb Ahmed
+218;TNH2766418;Sabeeha Begum;8;63;FEMALE;Shuyeeb Anmed
+247;L247;Kiran;6;31;MALE;Janardhan
+216;TNH2939676;Gowri;6;32;FEMALE;K Munithammaiah
+215;TNH2587343;Vasanthakumar;6;34;MALE;Janardhan
+244;TNH2587335;Varalakshmi;6;36;FEMALE;Udayakumar
+213;TNH2696615;Thimmakka;6;71;FEMALE;Muniyappa
+212;TNH2940351;Yashoda.;5;46;FEMALE;Ravi Kumar
+633;TNH2940633;Ravi Kumar;5;55;MALE;Narayana Setty
+376;TNH2587376;Bharathi.G;3;33;FEMALE;Sanjay.V.M
+208;TNH2587368;LAsha;3;33;FEMALE;M.Anand
+208;TNH2569564;Prema;3;47;FEMALE;V. Muniraju
+207;TNH2568061;Mohan kumar .V;3;50;MALE;Venkatagiriyappa
+208;TNH2780781;Ramaiah N;0;24;MALE;Narayanaiah
+244;TNH3856671;SHADAB KOUSER;246/17;20;MALE;MUNAWAR HUSSAIN
+28;TNH3422003;Pramath G;135;26;MALE;Gopinath Rao HN
+242;TNH3364460;Shubha Mohan;91;68;FEMALE;Mohan Kumar
+241;L241;Mohan Kumar;91;75;MALE;Puttashama Raju
+240;TNH3399631;Shanase;87/2;36;FEMALE;Khasim Peer
+239;TNH1001098;ICN. Munirathna;47;43;FEMALE;N.Suresh
+238;TNH1001072;N.Suresh;47;50;MALE;Narayan Sa
+237;TNH1001080;Lakshmi;47;75;FEMALE;Narayan Sa
+236;TNH2586410;;31;80;MALE;Dobaiya
+274;TNH3088580;RN Naveen;96/23;50;MALE;Nanjunda Shetty
+273;TNH2711737;Manjula;96/23;51;FEMALE;Gowriprasad
+22;TNH2569283;P. Srinivasan;96/23;52;MALE;late. palani swamy
+77;TNH2711539;Gowri Prasad;96/23;55;MALE;Sheenappa
+270;TNH2567436;V.H. Nagasri;95;30;FEMALE;V.K.Harinath
+269;TNH2940534;Tejashwini D M;95;33;FEMALE;Nagesh V H
+268;TNH2575561;V.H. Nagesh’;95;38;MALE;V. K. Harianath
+267;TNH3272788;Sudhasri E;95;58;FEMALE;Dr H Srinivas
+266;TNH2578177;V.K Harinath;95;72;MALE;Late. V. Krishnaiah
+265;TNH3272879;Kiran Kumar N;94;29;MALE;Nanjundappa
+264;TNH2780575;Kavya;94;31;FEMALE;SK Vishwanath
+263;TNH2711083;SV Krishnamurthy;94;33;MALE;S K Vishwanath
+262;TNH3272838;Shivaratna;94;56;FEMALE;Nanjundappa
+261;TNH3272853;Bhogappa;94;62;MALE;Bhogappa
+260;FSY4774758;Y Vimala;92;80;FEMALE;Y Papaiah Naidu
+88;TNH3108594;Srinivasan BK;90;28;MALE;Srinivasan BK
+258;TNH2566016;BS. Anjana;90;30;FEMALE;B. K. Srinivasan
+257;TNH3730843;Viayalakshmi B S;90;62;FEMALE;B K Srinivas
+256;TNH2573798;B.K. Srinivasan;90;68;MALE;B. Krishnamurthy
+285;TNH1001445;S.Karthik;51;24;MALE;C.Siddaramu
+254;TNH3364254;;26;24;MALE;Krishnappa M
+253;TNH2587400;K Hemavathi;21;38;FEMALE;B.D.Vishwanath
+282;TNH2310175;Shwetha H.R;21;40;FEMALE;Siddalingamurthy
+254;TNH2587392;B.D.Vishwanath;21;48;MALE;B.Doddakariyappa
+280;TNH3870193;Vishwas M;17;22;MALE;Manjunath M
+249;TNH3870185;VAISHNAVIM;17;22;FEMALE;MANJUNATH M.
+248;TNH3364478;George;8;47;MALE;George
+247;TNH2310118;Sunil;6/2;41;MALE;Sunil
+248;TNH2310100;Shiva Kumar;6/2;45;MALE;Dodda Mallaiah
+245;TNH3272762;E Suvarna.;4/1;41;FEMALE;K Janardhana Reddy
+606;TNH3187606;c D Menon;131/9;42;FEMALE;Damodharan K
+203;TNHO165225;Umaguptha;131/9;61;FEMALE;
+302;TNHO165233;Sathyanarayana Gupta G;131/9;63;MALE;Gopal Krishna Shetty G
+204;TNH3180684;Devaki;131/9;90;FEMALE;Damodaran
+200;TNH3181153;K Mamodharan;131/9;93;MALE;Keshavan Late
+299;TNH3272671;vadiraj batavi;103;29;MALE;usha bai batavi
+298;TNH3272622;pooja torvi;103;24;FEMALE;vaman torvi
+297;TNH2369858;Narayana Moorthy K;103;51;MALE;K Shankara Narayana
+296;TNH3357951;Ushabai Batavi;103;65;FEMALE;Late Achutachar
+285;TNH2940450;Maryam Fathima Jaleel;102;28;FEMALE;Mohammed Abdul
+204;TNH2940344;Shaik Mohammed Rizwan;102;29;MALE;Shaik Idris
+23;TNH3197886;Shaik Idris:;102;30;MALE;Abdul Majid
+292;TNH2940526;Shaik Mohammed Salman;102;31;MALE;Shaik Idris
+291;TNH2887248;AMEENA TARANUM;102;38;FEMALE;TAHER HUSSAIN
+280;TNH2500130;Prajna Prahlad;101;42;FEMALE;Vinay Rao
+8;TNH2574861;Vinay Rao;101;45;MALE;T R Raghunatha Rao
+228;TNH2642924;Yashodhamma;100;53;FEMALE;Yaliya
+287;TNHO356733;Asha S;100;59;FEMALE;T R Keshava Murthy
+286;TNHO356758;Dr Madhavamurthy;100;61;MALE;Shrinivashamurthi
+285;TNHO356725;T R Keshavamurthy;100;70;MALE;TV Ramanna
+284;TNH2576775;V.R. Darshan Kote;99;30;MALE;A.V.Ravi Prakash
+283;TNHO355909;VR Vikrankote;99;34;MALE;Dr Raviprakash
+282;TNH3155173;G Nischal;98/2;28;MALE;DR P G Girish
+281;TNHO411702;C G Raghavendrarao;97/1;43;MALE;C G Raghavendrarao
+220;TNH2939916;Amruta B Kulkarni;97/1;34;FEMALE;Balavantraya K Kulkarni
+273;TNH2939890;Ashrita B Kulkarni;97/1;36;FEMALE;Balavantraya K Kulkarni
+278;TNH0430553;;97/1;43;FEMALE;R Vinayak
+27;TNH2939973;Shila B Kulkarni;97/1;58;FEMALE;Balavantraya K
+276;TNH2939924;Balavantraya K Kulkarni;97/1;70;MALE;Krishnaji B Kulkarni
+275;TNHO0655555;Premarao;97/1;78;FEMALE;K R Rao
+324;TNH3580198;NISHANTH ARAKERE;135;24;MALE;PRASANNA A V
+333;TNH2500122;R Mahima;135;32;FEMALE;V Ravi Hoysala
+322;L322;Onkar Hoysal;135;35;MALE;V Ravi Hoysal
+234;TNHO41;Thanushri G Bharadhwaja;135;36;FEMALE;HN Gopinathrava
+220;TNH0222430;Mamathaprasanna;135;48;FEMALE;Prasanna
+28;TNHO222448;AV Prasanna;135;54;MALE;Late. Vasudevamurthy
+328;TNHO410605;Swarna Krupa;135;57;FEMALE;V Ravi Hoysal
+327;TNH3272820;Triveni G. Rao;135;58;FEMALE;H.N. Gopinath Rao
+326;TNH2939940;HN Gopinath Rao;135;65;MALE;Late HV Narayan Rao
+225;TNHO094631;Dr.V Ravi Hoysal;135;65;MALE;Late. P NV Narayana
+224;TNH3755584;KUSHAAL RAO BALUSU;134;22;MALE;SRINIVAS RAO B
+33;TNH3154002;Abinay Rao B;134;28;MALE;Srinivasa Rao B
+322;TNH2642858;Jyothi Bhandari;134;38;FEMALE;Siddarth Bhandari
+324;FSYA777447;Prasanna Kumari;134;49;FEMALE;Srinivasa Rao
+220;TNH2711158;Suresh B;134;54;MALE;Hanumantharao B
+318;FSY4776696;Srinivas Rao;134;54;MALE;Anumantharao B
+218;TNHO164954;Raj Kumar Bhandari;134;67;MALE;Mothilal Pattay
+422;TNHO222422;Sudha Bhandari;134;68;FEMALE;Sidharth Bhandari
+36;TNHO221911;Sidharth Bhandari;134;69;MALE;Late Amar Chand
+315;TNH2711745;Padmavathi B;134;76;FEMALE;Hanumantharao B
+514;TNHO165514;Smitha.V.M;133;42;FEMALE;VM Madhusudhan,
+238;L238;Velu SP;133;46;MALE;Ponnaswamy S P
+212;TNHO220814;Madhusudan VM;133;47;MALE;VN Muralidhar
+798;TNHO220798;Muralidhar VN;133;72;MALE;VN Narasimhaiah
+457;TNHO221457;Narasimhalah VN;133;97;MALE;Narayan Swamy
+309;TNH3421864;Vinod G;132;46;MALE;Gopinathan
+308;TNH2677656;Rekharao;132;77;FEMALE;Chandrakantha Rao
+207;TNH2684124;Chandrakantharao;132;83;MALE;Subbarao
+208;TNH2940260;Roopa Tankasali;131/9;34;FEMALE;Balasaheb Tankasali
+205;TNH3140035;Rekha Tankasali;131/9;36;FEMALE;Balakrishna Tankasali
+357;TNH2939874;Gul Afsha Shabnam;152;28;FEMALE;MD Riyazulla Haque
+386;;Mehar Taj Karavani;147;56;FEMALE;Mehar Taj Karavani
+385;TNH3179785;Sadiya Aisha Abid;146;24;FEMALE;ffraz
+254;TNH3273158;Mamtha RM;139;32;FEMALE;S Rama Mohan
+353;FSY6349047;SV Pavan Koushik;139;37;MALE;S H Vasudevamurthy
+352;FSY6381305;SV Sowmya;139;39;FEMALE;S H Vasudevamurthy
+354;FSY2237675;Nagarathna R M;139;63;FEMALE;Rama Mohan S
+380;FSY2218170;Padma V;139;64;FEMALE;Vasudevamurthy S H
+249;FSY2218030;Vasudevamurthy S H;139;68;MALE;SV Hanumanthachar
+248;;SV Hanumanthachar;139;92;MALE;Vasudevachar
+7;TNHO220913;S J Vagish;138/16;35;MALE;S J Vagish
+246;L246;CB Kalavathi;138/16;45;FEMALE;N R Sunil
+245;L245;NR Sunil;138/16;50;MALE;N Rudrappa
+344;TNHO221226;Prabhath Nalini Mishra;138/16;65;FEMALE;Durga Paba Mishra
+243;TNHO221887;S Minakshamma;138/16;75;FEMALE;Late. N Rudrappa
+242;TNH3272655;kamalini parthasarthy;137/4;29;FEMALE;m parthasarthy
+856;TNH3421856;Manjunath S;137;43;MALE;Srinivas
+240;TNH3421849;Shilpa S;137;43;FEMALE;Srinivas
+329;TNH3421872;Geetha S;137;54;FEMALE;Srinivas S
+214;TNH2887214;Vanamala Narayan;136;48;FEMALE;Vijay Subramanyam
+237;TNH2696300;Vijay Subramanyam;136;49;MALE;Subramanyam
+236;TNH2711208;Viayalakshmi;136;70;FEMALE;Subramanyam
+235;TNH2696318;Subramaniam M;136;75;MALE;Muthuswamy
+27;TNH3655693;Narayanappa;111/;35;MALE;Kadarappa
+386;TNH3357969;Roopa G;105;39;FEMALE;Padmanabha N
+325;L325;Padmanabha N;105;44;MALE;Narayan T
+284;TNH3273109;Chakravarthi NS Thota;105/38;52;MALE;TV Prabhkara Rao
+283;TNH3198769;Asfiya Begum;102;55;FEMALE;Shaik Idris
+32;TNH2282879;Diwakar J;88/36;33;MALE;Jyothoji Rao
+583;TNH2940583;Ashfak Ahmed;66;71;MALE;Mohammed Jaffer
+220;TNH3179942;Pyarejan;61;56;MALE;Mohammed Anwer
+379;TNH2579886;Sheeba Khanum;55/32;30;FEMALE;Syed Sajjad AHMED
+78;TNH3920477;Sachin M;54/33;20;MALE;VM Manchigaiah
+377;TNH2940567;Milan P Chowdaiah;54/33;29;MALE;VM Parashivappa
+276;TNH3108644;Vaibhav N Locharla;;30;MALE;Narendra Babu B K
+375;L375;Roopa Balaji;22/1;45;FEMALE;B K Balaji
+162;TNHO356162;B K Balaji;22/1;47;MALE;N Krishnamurthy
+373;TNHO356154;N Vasanthi;;53;FEMALE;B K Narendrababu
+372;TNHO356147;BK Narendrababu;;54;MALE;N Krishnamurthy
+274;TNHO356170;NK Arun Jyothi;22/4;71;FEMALE;Krishnamurthy
+270;TNH3272895;Padma Raghunath;15;62;FEMALE;Raghunath K
+268;TNH3272846;Raghunath K;15;69;MALE;Krishna Swamy G
+368;TNH2379832;Biju B;10/05;33;MALE;J Babu
+367;TNH2711547;Gowramma;9/032;60;FEMALE;K Thimmappa
+266;TNH2696292;;9/032;65;MALE;Krishnaiah
+265;TNHO356519;Ummehani;9/10;39;FEMALE;Theherunnisa
+264;TNH2300945;Abdul Kader M;9/10;46;FEMALE;Abdul Kader M
+363;TNHO171058;Ramakrishna R;9/10;59;MALE;Rajappa A
+362;TNH2574127;Sowmyavathi. C;9;32;FEMALE;Umesh. M
+361;L361;Babu;9/02;54;FEMALE;Babu
+260;TNH2250405;AS Kendaganna Shetty;4;46;MALE;Siddabasappa
+259;TNH2250397;Madevamma;4;59;FEMALE;Siddalingaswamy
+388;TNH2693448;SOAHAM PARASHTEKAR,;;41;MALE;SHANKAR
+176;TNH2625176;S Ramachandran;124;51;MALE;V Sheshadri
+817;TNH2939817;Devdas B Naik;124;53;MALE;Babu Naik
+45;TNH2939841;Halayya C Bellad;124;59;MALE;Channayya Bellad
+155;TNH2500155;KS Sandhyavali;124;73;FEMALE;V Sheshadri
+48;TNH2780708;¥ Sheshadri;124;77;MALE;H R Venkatesh lyer
+4;TNH3920345;Hemavathi;123;47;FEMALE;Kempanna
+753;TNH3526753;Gurukiran M;123;25;MALE;Muniraju
+569;TNH2642569;Bhagyalakshmi;123;45;FEMALE;
+409;TNH2642890;Muniraju;123;53;MALE;Late. Thimmaiah
+408;TNH3169463;Jyothi VN;120/6;35;FEMALE;Raghavendra M
+7;TNH2656973;HARSHAN ARADHYA BV;119/65;36;MALE;Late B N VJAY KUMAR,
+4;TNHO413625;;117/2;42;FEMALE;Shanmugam
+405;TNHO411751;Saraswathi P;117/2;44;FEMALE;Papamma P
+4;TNHO411744;Rukmini P;117/2;55;FEMALE;Prakash
+403;TNH2711919;Lakshmamma;117/;58;FEMALE;Shamanna
+4;TNH2642643;Krishnappa;117/;56;MALE;Marappagaundar
+404;TNH3730850;Mangalamma N;117;31;FEMALE;Venkatesh S
+400;TNH1001759;Ashwini;117;24;FEMALE;Keshavamurthy
+399;TNH2642508;S Kavya;;35;FEMALE;S Venkatesh
+398;TNH2696284;Munirathna;;35;FEMALE;Srinivas
+297;L297;Srinivas;117;37;MALE;Papanna
+298;TNH2642767;S Venkatesh;;39;FEMALE;R Seetharam
+295;TNH1001767;Kavitha;;39;FEMALE;Keshavamurthy
+294;TNHO375675;Lakshmi;117;41;FEMALE;Raju
+383;TNH3730686;Hanumakka;117;49;FEMALE;Seetharama R
+392;TNH2569598;Rathnamma;117;57;FEMALE;Srinivasa
+391;TNH2711679;Muniyamma;;65;FEMALE;Papanna
+290;TNH2581031;Srinivasa;117;68;MALE;Veerabadrappa
+388;TNH1001734;Keshavamurthy;117;75;MALE;Narasimhaiah
+288;TNH3273133;Naveen BS;111/19;31;MALE;Subbarama Murthy T S
+43;TNH3643533;FOUZAN KHAN;203;23;MALE;IRFAN KHAN
+43;TNH3643533;FOUZAN KHAN;203;23;MALE;IRFAN KHAN
+422;TNHO409789;Leelavathi;136;90;FEMALE;A Krishnamurthi
+310;TNH2940310;Vinodamma;132;70;FEMALE;Nagaraju K
+40;TNH3272598;P Durga;129/40;40;FEMALE;P Purandar Reddy
+429;TNH3272556;P Purandar Reddy;129/40;47;MALE;P Pulla Reddy.
+428;TNH2711869;S Ramaa Babu;128/14;55;FEMALE;Srinivas Babu K P
+174;TNH2711174;Srinivasa Babu K P;128/14;60;MALE;Panduranga K
+426;TNH2696599;P Soundarya Lakshmi;128/14;79;FEMALE;Panduranga K
+425;TNH2587434;;127/7;59;MALE;
+424;TNH2696649;;127/4;24;MALE;Narayanaswamy
+423;TNH3440997;Deepika D Jain;124;27;FEMALE;Dinesh Kumar
+422;TNH2500163;Roopa Sheshadri;124;43;FEMALE;V Sheshadri
+690;TNH2780690;Dr. Roopa Sheshadri;124;43;FEMALE;V Sheshadri
+420;TNH3655545;;124;44;MALE;RAMALINGA N
+413;TNH2940047;Anasuya Bellad;124;45;FEMALE;Halayya Bellad
+775;TNH2939775;Jyothi D Naik;124;51;FEMALE;Devdas B Naik
+463;TNH2250421;SHRITHI MALAVALLI NAGARAJ;6/5;37;FEMALE;NAGARAJ MH
+462;TNH2250439;M Sudha;6/5;53;FEMALE;M.H..Nagaraj
+461;TNH2250447;;6/5;66;MALE;Honegowda
+480;TNH3526704;Shekar V;6/1;31;MALE;Venkatesh
+489;FSY2167450;Chandrakala;5;48;FEMALE;Narender L
+48;FSY2219038;Dr L Surender;5;52;MALE;Lingappa
+457;;Narender L;5;56;MALE;Lingappa
+486;FSY2218675;Lingappa;5;89;MALE;Nagappa
+485;NH3272713;dinesh b;4;30;MALE;basavaraj
+44;TNH3272747;shakunthala;4;47;FEMALE;basavaraj
+4;TNH3272754;ramanna;4;59;MALE;ramanna
+452;FSY4775326;TA Vishwanathan;3;53;MALE;Ashwathnarayan
+436;FSY6377436;KB Suresh;3;60;MALE;K B Sharma
+480;FSY6377808;TA Shanthi;3;64;FEMALE;K B Suresh
+449;FSY4775334;TR Sharada;3;73;FEMALE;Ramaiyyer
+203;TNH2902203;Rukmini;3;83;FEMALE;Shamanna
+4;TNH2902211;Shamanna;3;88;MALE;Suryanarayana
+4;TNH1003573;;;39;MALE;Nanjundashetty
+238;TNH3802238;Chehel Mehta;;23;FEMALE;Sanjay Mehta
+11;TNH3422011;Meghal Mehta;;28;FEMALE;Sanjay Mehta
+443;TNH2667236;Jhansi P;;32;FEMALE;G Prakash Murthy
+2;FSY4773958;Rinku Mehtha;2;45;FEMALE;Hithesh Mehtha
+105;FSY4774105;Sarika Mehtha;2;45;FEMALE;Mahendra Mehtha
+40;FSY4774113;Mahendra Mehtha;2;45;MALE;Narapath Chand
+49;;Hithesh Mehtha;2;47;MALE;Narapath Chand
+48;FSY4773727;;2;52;MALE;Narapath Chand
+437;L437;Babitha Mehtha;;53;FEMALE;Sanjay Mehtha
+43;FSY4775490;Nirmala Mehtha;2;72;FEMALE;Narapath Chand
+425;FSY6351183;CV Madhusudan;1;42;MALE;CH Venkatesh
+434;FSY6376863;C H Venkatesh;1;73;MALE;Hanumegowda
+4;TNH1002526;;10;39;MALE;B.S.Venkatesh
+492;TNH1002518;Preethi Vikram;10;43;FEMALE;B.V.Vikram
+588;TNH2711588;BV Bhanumathi;10;64;FEMALE;B S Venkatesh
+490;TNH2939999;CL Kumari;9/5;87;FEMALE;Late C L Chandran
+429;TNH1002484;Ashalatha BS;9;68;FEMALE;M C Divakar
+428;TNH1003599;Manwith D Masa Gode;9;36;FEMALE;Dr Divakar MC
+87;TNH1003581;Charitha D Masgode;9;36;FEMALE;Dr M C Divakar
+26;;Chaya Ashok;9;56;FEMALE;Ashok Krishna.
+485;FSY4775987;Ashok Krishna;9;59;MALE;Jayalakshmi
+4;TNH2939882;Bhagirathi Sadashivaiah;9;84;FEMALE;Late PV
+483;TNH3440971;POONAM SHET;8;30;FEMALE;ANIL KUMAR
+82;FSY4774824;Sulochana;8;55;FEMALE;Srinivasamurthy
+527;FSY4774527;Srinivasamurthy;8;61;MALE;H V Hirannegowda
+480;;Rukminiyamma;8;92;FEMALE;H V Hirannegowda
+479;TNH2250074;HV Hiranya Gowda;8;99;MALE;Venkategowda
+7;TNH3656576;Sanjith S;08;25;MALE;Srinivasa murthy H
+47;TNH3656568;Ayushmaan S;08;25;MALE;Srinivasa Murthy H
+76;TNH3160959;;;28;MALE;ABDULREHMAN
+75;FSY2238566;Mubin Taj;7;62;FEMALE;Syed Hafiz
+574;;Syed Hafeez;7;75;MALE;Syed Yusaf
+73;TNH2940252;PB Narayana Murthy;07;82;MALE;Late P Bheem Rao
+72;TNH3364320;Ruksana Khanum;7;28;FEMALE;Late Shaffi Ulla
+312;TNH3364312;Salma Khanum S;7;36;FEMALE;Imtiyaz Pasha
+70;TNH2711778;RIZWANA AM;;37;FEMALE;MAQBOOL A
+469;TNHO221085;Syed Fareed YH;7;39;MALE;Syed Hafiz
+701;;Syed Waheed Y H;7;39;MALE;Syed Hafeez
+467;FSY4773719;Hajira Thabassuma;7;42;FEMALE;Syed Hafiz
+466;TNH3364221;Vazeer Jan;7;43;MALE;Vazeer Jan
+465;TNHO221093;Mohamed Rafi;7;49;MALE;J Ruknudein
+464;TNH3141249;Shravan MN;6/5;31;MALE;Nagaraj MH
+523;TNH1002609;Sreedevi Gopal;15;75;FEMALE;Srinivas Gopal
+522;TNH1002591;Hosamane Srinivasa Gopal;15;90;MALE;H. S. Venkataram
+524;TNH2250082;Dr Mahalingappa M S;14;85;MALE;Siddaramegowda M
+0;TNH2711430;MM Varsha;14/4;46;FEMALE;M S Mahalingappa
+5;TNH1002583;MM Varsha;14;46;FEMALE;Dr Mahalingappa MS
+443;TNH2940443;H S Karthik;14/2;38;MALE;H S Kumaraswamy
+7;TNH3108792;Pushpalatha KY;14/2;41;FEMALE;Karthik H S
+312;FSY6348312;Bharathi V;14/2;45;FEMALE;K Ramesh Babu
+515;L515;Ramesh Babu;14/2;49;MALE;Ramalingaiah
+270;TNH3552270;Suvarna Raviraj Naik;14/2;50;FEMALE;Raviraj Naik
+8;TNH1003615;B Ganesh;13;46;MALE;Harappa Bhaskar
+512;FSY2164556;LATHA BHASKARA;13;71;FEMALE;Bhaskar H
+737;FSY2216737;Halappa Bhaskar;;81;MALE;Halappa H G
+510;L510;Parvathamma;13;102;FEMALE;
+509;FSY2215937;Udaya K;12;70;FEMALE;Kannappa S
+508;FSY2215945;;12;76;MALE;Sanjivirayan
+507;FSY2165405;MN Sudha;;58;FEMALE;BV Satish
+506;TNH2711984;B V Satish;12;64;MALE;VK Veerappa
+505;FSY2166791;VK Veerappa;12;95;MALE;Eregowda
+567;TNH1002567;Anju V Satish;12;34;MALE;B V Satish
+503;TNH1002559;Anuj V Satish;12;34;MALE;Satish BV
+802;TNH3399599;Thayamma;12;36;FEMALE;Ashoka
+1;TNH3399607;Ashoka.;12;40;MALE;Mayappa
+0;TNH1002542;S.D. Nagamma;11;40;FEMALE;P.R.Srirangaiah
+499;TNH2711950;PR Srirangaiah;11;58;MALE;Rangadasappa
+498;FSY2218899;Sharadamma;11;66;FEMALE;V P Siddeshwar
+7;TNH2587442;Kushal Kumar.A;11;32;MALE;Ananthamurthy. AV
+496;TNH3273067;Bharath Ranganath;11;35;MALE;MR Ranganath
+495;TNH2587467;Uma.BV;11;59;FEMALE;Ananthamurthy. AV
+404;TNH2587475;Ananthamurthy. AV;11;66;MALE;Late.Venkataramu.K
+553;TNH3272564;Rukmini Konada;19;40;FEMALE;Srinivas Konada
+582;TNH2939643;Savitha Rani;19;40;FEMALE;Ananda Reddy
+584;TNH2711927;GR Lakshminarayan;19;42;MALE;GN Ramappa
+550;TNH2939627;Takkod Vijay Kumar;19;42;MALE;Parappa
+4;TNH2939718;Anand Reddy;19;44;MALE;Govinda Reddy
+93;TNH2625093;C M Srinivas;19;44;MALE;Mariyappa
+903;FSY2164903;Nagaraj G R;19;55;MALE;Ramappa G N
+546;TNH2711372;Ravindra;18;50;MALE;Madhavamurthy
+545;FSY4776050;Sarojamurthi;18;73;FEMALE;Madhavamurthy
+535;FSY4774535;NJ Shantha;18;78;FEMALE;Jayachara
+543;TNH2780625;Mohammed Jawaad Khan S;18/1;30;MALE;S A Qayum Khan
+542;TNHO410373;S Mohammed Jubirakkhan;18/1;34;MALE;SV Kayymukhan
+381;TNHO410381;Mohammed Shoyeba;18/1;37;MALE;S A Khayyuma Khan
+540;TNHOOS4664;SA Khayyuma Khan;18/1;62;MALE;S Yusaf Khan
+539;;Vishala K Murthy;;72;FEMALE;Krishnamurthy T S
+538;TNH1002641;1 S Krishnamurthy;;84;MALE;Srinivas Rao TV
+7;TNH1002633;Smitha TV;17;47;FEMALE;Vasudev Rao
+536;TNH2284396;Manjula Baba Ladi;;42;FEMALE;Vithal Baba Ladi
+535;TNH2286268;Vitha Baba Ladi;;44;MALE;Bhimasen Baba Ladi
+495;FSY6376495;LB Amar;16;38;MALE;L G Balasubramanya
+533;L533;Manjuladevi L B;16;66;FEMALE;Balasubramanya L G
+532;FSY4773743;Balasubramani LG;16;69;MALE;Gopalakrishna Shetty
+534;TNH3927746;ABHIJIT VASUDHAR GOPAL;;25;MALE;VASUDHAR S GOPAL
+520;TNH3766763;ANANYA VASUDHAR;15;23;FEMALE;VASUDHAR S GOPAL
+523;TNH2712008;Adishesha lyengar;15;35;MALE;K.G.Govinda
+828;TNH1003664;Aruna Vasudhar Gopal;15;50;FEMALE;Vasudhar Gopal
+827;TNH1003656;Vasudhar Gopal;15;50;MALE;Srinivas Gopal
+526;TNH1002617;Jyotsna;15;62;FEMALE;Manjunath K
+525;TNH2711638;Anuradha Govind;15;64;FEMALE;K G Govind
+824;TNH2711331;K G Govinda;15;71;MALE;K Gopal lyengar
+523;L523;habebunnisa;30;33;FEMALE;Syed Jameel Ur
+522;L522;Karthikeyan A;26;28;MALE;Arumugam S
+746;TNH3526746;Minali Giridhar Reddy;24;26;FEMALE;J Giridhar
+580;TNH3526670;Savitha Sharma;24;56;FEMALE;J Giridhar
+761;TNH3526761;C J Reddy;24;57;MALE;C J Reddy
+607;TNH2309607;C J Reddy;24;60;MALE;C J Reddy
+77;S77;MEGHANAR;23;28;FEMALE;RAMAMURTHY
+576;TNH3755592;ANADHA N GWAR;23;37;FEMALE;NAGBHUSHAN GUJAR
+875;L875;A RATHNA;23;49;FEMALE;RAMAMURTHY
+4;TNH3775798;RAMAMURTHY;23;60;MALE;late ¥V APPAIAH
+576;TNH3755576;;23;62;FEMALE;NAGBHUSHAN
+572;TNHO221;Uma;23;68;FEMALE;S.G.Ramachandra
+135;TNHO221135;S.G.Ramachandra;23;72;MALE;S.Gopalashasthri
+354;TNH3764354;ARVIND RAQ-;22;50;MALE;VELLORE
+569;SNJ2008308;Anshu Somani;21;32;FEMALE;Tarun Rathi
+568;JHV1188135;Tarun Rathi;21;33;MALE;Vijay Rathi
+87;TNH2583722;H. D. Uttam;21;44;FEMALE;H. D. Uttam
+866;TNH2566412;H. D. Uttam;21;48;MALE;H. B. Dharanappa
+565;TNH3461274;Ananthakrishna Murthy;21;49;MALE;Ramaiah V
+564;TNH2566966;Vijaya Dharanappa;21;74;FEMALE;H.B. Dharanappa
+563;TNH2572170;H.B. Dharanappa;21;88;MALE;S. P. Bramappa
+562;TNH3272697;Varsha. L. Kanth;19/20;29;FEMALE;V. Lakshmikanth
+564;TNH3272689;T. Koniathi Anasuya;19/20;63;FEMALE;V.Lakshmikanth
+560;TNH3272705;V. Lakshmikanth;19/20;64;MALE;G. Veeraraj
+589;TNH36561;Krishna Kumara L;19;25;MALE;Late Lakshminarasima
+726;TNH2939726;Pavithra;19;29;FEMALE;Keshava Reddy
+887;TNH2939635;Kalpana M;19;32;FEMALE;C M Srinivas
+556;TNH2939668;Sumithra Takkoka Vijaykumar;19;34;FEMALE;Takkota Vijaykumar
+555;TNH2939700;Chennakeshava K;19;35;MALE;Krishnappa K
+84;TNH2939684;Keshava Reddy;19;39;MALE;Govinda Reddy
+13;TNH2711620;Poornima G Gurumurthy;80;41;FEMALE;KJ Chetan
+62;TNH2711828;Kirankumar;80;45;MALE;Dr Gurumurthy
+755;FSY2234755;S Kumari;80;56;FEMALE;S Sureshbabu
+83;;S Suresh Babu;80;66;MALE;C Shyamu
+609;;SG Shashikala;80;68;FEMALE;Dr Gurumurthy
+2;FSY2165801;PA Vimala;80;88;FEMALE;Late
+607;TNHO407692;S Poornima;80/;35;FEMALE;S Suresh Babu
+606;TNH3656071;ESHWAR S;80/;23;MALE;SURESH BABU S
+605;TNH3803780;Nitish Ranjan;;31;MALE;Nagendra Prasad
+4;TNH2940492;Sambhram C S;79/;31;MALE;Shantha Shiva Prasad
+603;FSY6349070;Shantha Shivaprasad;79/;60;FEMALE;Dr C A Shivaprasad
+602;TNHO409854;NSrishti;79/;35;FEMALE;Shivaprasad
+604;TNH1002807;Baskar Rajasekharan;79/;50;MALE;Rajasekharan
+600;TNH1002799;Uma Rajasekharan;79/;80;FEMALE;Rajasekharaan P R
+599;TNH2940781;Sugavana Selvi;79/;47;FEMALE;Selvakumar
+588;TNH2940799;Selvakumar;79/;48;MALE;M Arumugam
+597;TNH3862628;Vishnu Vardhan Raju;79;40;MALE;Chikkaiah Raju
+596;TNH3127883;Aritha G;79;39;FEMALE;Hemanth Prasad
+595;;D Shanthi;79;44;FEMALE;S Ramakrishna
+594;TNH2711349;Krishna Prasad G R;73;82;MALE;Grama S R
+593;FSY2165793;J Lakshmi;69;59;FEMALE;P A Suresh
+882;FSY2218105;PA Suresh;69;64;MALE;PN Anantha.
+81;TNH3504305;PRASHANTH V;;37;MALE;VIDYA SHANKAR B K
+590;TNH3682572;K SHRUTHI;54;27;FEMALE;K JAYACHANDRA
+589;TNH3108578;Gazala Mehboob;49/3;42;FEMALE;Abdul Mudasir
+88;TNH3813169;;47;36;FEMALE;Balaji Kumar
+887;TNH3421831;Qamar Taj;46;53;FEMALE;Mustaq Anmed
+586;TNH3580149;THRIVENI BV;45;25;FEMALE;SATISH V
+585;TNH3051653;SUVARNA KAMATH;;62;FEMALE;Suresh Kamath
+584;TNH3040490;SURESH KAMATH;;67;MALE;Marthappa Kamath
+63;TNH1002310;T L Nagappasetty;85;92;MALE;A Lakshman Setty
+642;TNH3421963;SHIVAPRASAD GAONKAR;;37;MALE;CHANDRASHEKHAR
+775;TNH2642775;Faris Sahema;83;35;MALE;Humahin Jamid
+40;TNH1002880;Maya Ayn;83;38;FEMALE;Humayun Javid
+829;FSY4775060;Mohasin Akhtheri;83;64;FEMALE;Dr Humayuna Javed
+828;FSY4775052;Dr Humayun Javed;83;69;MALE;Ahmec Ulla Sharit
+637;TNH3421922;Shakeeb Ahmed Khan;82/30;28;MALE;Amjad Ulla Khan
+626;TNH2780377;Faiz Ahmed Khan;82/30;29;MALE;Amjad Ulla Khan
+625;TNH3518750;Reshma;82/30;36;FEMALE;Rahmath Ulla Khan
+624;TNH2940179;Rahmath Ulla Khan;82/30;38;MALE;Amjad Ulla Khan
+633;TNH2780724;Jubair Ahmed Khan;82/30;32;MALE;Amjad Ulla Khan
+632;;Asma Begaum;82;52;FEMALE;Amjad Ulla Khan
+80;FSY2166080;Amjad Ulla Khan;82;72;MALE;B R Ibrahim Khan
+630;TNHO096180;Aajmatha Ullakhan;82/3;37;MALE;Aamjal Ullakhan
+629;TNH1002823;R.M.Sajjad Hussain;82/2;59;MALE;R.Mliyas
+28;TNH3273083;Waseemulla Khan;82;47;MALE;Kaleem ulla Khan
+7;TNH3272580;Waseemulla Khan;82;48;FEMALE;Waseemulla Khan
+26;TNH2656908;Parvin Taj;82;57;FEMALE;Syed Fairoze
+625;TNHO220848;Jyotsana Parihar;81/;43;FEMALE;Kishore Parihar
+764;TNHO220764;Kishore;81/;48;MALE;Prahladkumar
+623;TNHO221119;Manoramma Parihar;81/;70;FEMALE;C Prahladkumar
+22;TNHO221101;C Prahladkumar;81/4;75;MALE;Chunilala
+675;TNH3538675;Syed Mastan Ali;81;45;FEMALE;Syed Mastan Ali
+20;TNH2940518;Shabanam;81;45;FEMALE;Shafiulla Mohammed
+9;TNH2940369;Deepak;81;46;FEMALE;Deepak
+8;TNH2940278;Deepak S;81;47;MALE;Satya Jeevan Ram
+67;TNH3730967;VEDAVATHY;81;81;FEMALE;D SATYA.
+112;TNH2940112;Satya Jeevan Ram;81;89;MALE;Damodar
+8;TNH3725918;DRBN;;64;FEMALE;DRBN
+4;TNH3725959;BN LAKSHMI KANTH;;75;MALE;K N NARAYAN
+673;L673;Chethanya;88/36;37;MALE;S Ashok
+872;TNH2711604;Omkar Solapurakar;88/36;38;MALE;Ashoka
+949;TNHO356949;Santhoshakumara;88/36;41;MALE;Shankarachary
+7;TNH1003037;A.Kalidas;88/36;42;MALE;A.Kalidas
+34;TNH3273034;Sampat Kumar Sharma;88/36;43;MALE;CM Sharma
+88;TNH1003029;K.Chetan Kalidas;88/36;44;MALE;A.Kalidas
+667;L667;Veeresh;88/36;47;MALE;Sharanappa
+6;TNH1003003;Padma Kalidas;88/36;55;FEMALE;Kalidas A
+665;TNHO356931;Rajeshwari;88/36;56;FEMALE;Shankarachary
+64;S64;SZubeida;88/36;61;FEMALE;Syed Thajuddina S
+8;FSY6346296;;88/36;62;MALE;Mehaboob Sab
+862;TNHO356790;Shankarachar;88/36;69;MALE;Ramachar
+340;TNH0165340;A. Kalidas;88/36;78;MALE;S.N.Appanna
+660;TNH2711844;Shivakumar;88/36;84;MALE;
+659;TNH2642593;Aashashasthri;87;54;FEMALE;Seetha Ramashastri
+858;TNH271;Seetha Ramashastry;87;65;MALE;Vasudevashasthri
+7;TNH2642577;Janakamma;87;102;FEMALE;Vasudevashasthri
+6;TNH3802501;Srikanth AR.;85;26;MALE;Ramesh BN
+656;TNH2940237;Ramyashree N K;85;29;FEMALE;Krishnamurthy NV
+377;FSY6349377;TR Varun;85;38;MALE;T P Ramalingaiah
+683;TNH3507050;Santhosh Huchayya Vastrad;85;41;MALE;Huchayya Rachayya
+82;TNHO091579;Prashanth;85;49;MALE;Subbarao ¥ K
+854;TNH1002336;Ashwini Ramesh;85;51;FEMALE;Ramesh BN
+80;TNH1002328;BN Ramesh;85;53;MALE;T L Nagappa Setty
+649;TNHO222489;Latha R Gupta;85;58;FEMALE;Ramalingaiah Gupta
+211;TNH2940211;Kamala;85;59;FEMALE;Krishnamurthy NV
+87;TNH2940104;Krishnamurthy NV;85;65;MALE;Late M Venkannachar
+46;TNH2711448;Savithri;85;76;FEMALE;Subbarao Y K
+45;;Shanthamma N;85;82;FEMALE;T L Nagappa Shetty
+520;TNHO091520;Subbarao ¥ K;85;89;MALE;Krishnarao ¥Y R-
+703;TNH2939866;M Basha.;134;40;MALE;Abdulla
+702;TNH2940732;K Chamdrashekhar;130/2;57;MALE;K G Krishna Shetty
+704;TNH3272978;Madhusudan Gadwalkar;129/40;35;MALE;Narasappa Gadwalkar
+700;TNHO373480;Prathibha L Harish;129/40;45;FEMALE;LG Harish
+9;TNHO373498;L G Harish;129/40;47;MALE;LV Govindaraj
+698;TNH3108743;NIKITASHA HAVAL;;37;FEMALE;SANTOSH KUMAR
+7;TNHO414094;A Anjubargavi;126;24;FEMALE;N Amaranath
+696;TNHO359422;Sanjan Thejaswi;126;42;FEMALE;Thejaswi
+695;TNH2500221;Pavan Kumar BV;122/;33;MALE;B K Vijay Vittal
+4;TNH2500213;;122/;70;MALE;B Krishnamurthy
+693;TNH3108750;Sakamma;1241/7;97;FEMALE;Late Seenappa
+43;TNH3507043;;119/5;45;FEMALE;FAKKIRESH
+877;TNH3857877;Parvathi;;37;FEMALE;Munindra
+690;TNH3421948;Mageeda Begum;;51;FEMALE;Ismail Khan
+629;TNHO431049;Kavipriy;106/39;39;FEMALE;.Shravanakumar
+900;TNHO430900;K Shravanakumar;106/39;46;MALE;A. Kalimuthu
+7;TNH3766011;RAGAPRASAD N;105/38;22;MALE;RAGHAVAN V
+86;TNH3666674;THOTA SAI SRI LALITHA;105/38;25;MALE;T N S CHAKRAVARTHI
+685;TNH3273000;Sandhya Rani Thota;105/38;32;FEMALE;TN S Chakravarthi
+684;;Balajkumar BS;102;41;MALE;B Srinivasan
+683;FSY2216760;Lakshminarayan S;102;60;MALE;Subbaiah
+82;TNH0168138;Kushraj Patil;102;64;MALE;Neelakantha Rao
+741;TNHO356741;Anitha Madhav;100;53;FEMALE;Dr S Madhava
+20;TNH3272606;aiswarya g;20;28;FEMALE;gowri prasad h s
+873;TNH3755519;ANANYA S URS;91;23;FEMALE;SOWMYA B M
+878;TNH2940666;Renuka VR Rathod;91;44;FEMALE;Valu Rathod
+658;TNH2940658;Valu Rathod;91;51;MALE;Jemlu Chavan
+76;TNH3273059;Menta Hanumanth Abhilash;88/36;34;MALE;M Satya Narayana
+875;TNH3273117;;88/36;34;MALE;Chandrasekharan
+74;S74;Santhosh Badam;88/36;34;MALE;Prakasa Rao Badam
+733;TNHO367979;Sandip M Jen;150/45;39;MALE;Manamala Jain
+732;TNHO429183;Hemalatha K Jain;150/45;39;FEMALE;Kunal M Jain
+2;TNH2711166;Kishore M Jain;150/45;40;MALE;Manmal Jain
+730;TNHO373860;Kunal M Jain;150/45;42;MALE;Manamala Jain
+729;TNHO429175;Nim M.Jain;150/45;60;FEMALE;Manmala Jain.
+728;TNHO367961;Manamala Jain;150/45;69;MALE;Javira Chand Jain
+727;TNH1003284;Majida Parveen;149/144;47;FEMALE;Ziauddin
+726;TNH2250470;;149/3;36;FEMALE;R Hanumanthappa
+725;TNH2250462;R Nagarathnamma;149/23;61;FEMALE;R Hanumanthappa
+724;TNH2250454;R Hanumanthappa;149/3;68;MALE;Late Ramappa
+7;TNH1003243;Shama;149;40;FEMALE;Rizwan Pasha
+7;TNH0092676;Sandeep H;149;41;MALE;Hanumanthappa R
+724;TNH1003250;Mohammed Zia Uddin;149;51;MALE;Mohammed Salauddin
+720;TNHO414243;Shobha;149;52;FEMALE;Padmanabha
+7;TNHO35631;Padmanabha;149;55;MALE;Kenchaiah
+7;;Fasiya Thabusama;144;43;FEMALE;Mohammed Althaf
+219;TNH1003219;Nikhilwi. Bhata Bhat;143;40;MALE;Vinoda M
+76;TNH0654566;Jignasodi Bhat;143;42;FEMALE;Dipak B
+75;TNH1003201;Dipak B. Bhat;143;46;MALE;Bipin.M. Bhat
+714;L714;Malashankar;143;66;MALE;Malashankar
+713;TNH1003185;Daksha V. Bhat;143;70;FEMALE;Vinoda M
+2;TNH1003177;Jyothi B. Bhat;143;72;FEMALE;Bipin.M.Bhat
+169;TNH1003169;Vinoda M. Bhat;143;73;MALE;Malashandar
+70;TNH1003151;Bipin. M.Bhat;143;81;MALE;Malashankarabhat
+708;TNH1003128;Priyanka;141;38;FEMALE;Madhusudan
+708;TNH3461332;R Madhusudhan;141;68;MALE;K Rajarao
+707;TNH3461514;S.Karthik;140;42;MALE;K.Srinivasa
+706;TNH3088598;Nalini;140;65;FEMALE;K Srinivas
+705;;K Srinivasan;140;80;MALE;Krishnamachara K
+704;TNH2711190;RM.Priyanka;139;37;FEMALE;Ramamohan
+763;TNH2642601;Savitha;;62;FEMALE;Dinesh
+762;TNH2711729;Dr. CN Dinesh;172;67;MALE;C K Nagaraju
+644;TNH2712644;Parvathi Devi;;90;FEMALE;C N Upavarsha
+760;TNH2684264;N Lakshmidevi;170;75;FEMALE;KS
+79;TNH2587459;Guru Prasad.K.P-;170;44;MALE;K.S.Parameshwaraiah
+758;TNH2642791;KS Parameshwaraiah;170;80;MALE;K R Seetharamaiah
+757;TNHO414128;NAannapurn;170/;71;FEMALE;RK Prabhakar Ram
+756;TNHO407189;Ashwini M Rattihalli;170/;39;FEMALE;Praveen Prabhakar
+755;TNHO436089;Praveen P;170/;44;MALE;Prabhakar Ram
+986;TNH3272986;Nveen P;170/;36;MALE;Dakshayani G
+73;TNH2780609;;170/;37;MALE;K Huchaiah
+782;TNH2780583;Varadaraju H;170/;40;MALE;K Huchaiah
+751;TNH2780617;Lokesh H;170/;41;FEMALE;Lokesh H
+750;TNH2780716;Lokesh H;170/;43;MALE;K Huchaiah
+42;TNH3273042;Naina P;170/;24;FEMALE;Dakshayani G
+890;TNH2656890;N Mahesh Kumar;169/3;34;MALE;A Nagaraj
+726;FSY2166726;Ramalakshmamma;169;49;FEMALE;Srinivas
+6;FSY2216778;Gowramma;169;55;FEMALE;Lakshminarayan S
+745;;BV Arun;168;62;MALE;Bhagavantharao D S.
+398;TNH2711398;B Padmavathi;168;89;FEMALE;Bhagavantharao D S
+73;TNH2500205;Nidhi Gowtham;161;33;FEMALE;Gowtham
+2;TNH3461522;Usha Srinivasan;160;67;FEMALE;B Srinivasan
+963;TNH0168963;Janvi;160/2;33;FEMALE;Kushraj
+740;TNH0168955;;160/21;56;FEMALE;Kusharaj
+729;TNH2711216;;160/2;66;MALE;Nilakantarao
+728;TNH2625127;Darshan S;159/1;41;MALE;JN Sridhara Murthy
+737;L737;Shruthi Darshan;159/1;41;FEMALE;Darshan S
+726;TNH2625101;M Meenakshi;159/1;62;FEMALE;J N Sridhara Murthy
+725;TNH2625028;DR. JN Sridhara Murthy;159/1;69;MALE;J N Nanje Gowda
+734;TNH3273125;Sriharsha BV;157;27;MALE;B V Venkataramu
+141;TNH3273141;Dakshayini G;1704/1;57;FEMALE;Puttaswamy G S
+384;TNH3092384;ambareesha ambresh;494;28;MALE;stiramappa ramappa
+775;TNH3761202;ANAND G;301/19;52;MALE;GURURAJA RAO-
+194;TNH3761194;SMITHA NC;301/9;46;FEMALE;ANAND G
+7;TNH3272572;;301;46;MALE;Venkataram Naidu
+7;TNH2939809;G Revathi;183;48;FEMALE;Krishna Kulkarni
+742;TNH2939742;Krishna Kulkarni;183;60;MALE;Jai Rao
+770;TNH2940161;Vishnu R Srivaths;174;30;MALE;B R Ravindra
+763;TNH2711802;Shashank Shrivastha;174;34;MALE;B.R.Ravindra
+768;TNH2711307;Priyanka;173;35;FEMALE;K.S.Chidananda
+77;TNH2711380;Shobana Chidanand;173;69;FEMALE;Dr Chidanand
+497;TNH2711497;Dr. Chidanand;173;74;MALE;Late. Narasimhaswamy
+765;TNH2642650;Nishanth Vishwanamithra;;33;FEMALE;CN Dinesh
+764;TNH2642783;Priyanka Dinesh;;38;FEMALE;C/N Dinesh Da
+634;TNH3944634;KANISHA K PARIHAR PARIHAR;81;18;FEMALE;JYOTSANA PARIHAR
+31;;Angammal P;31/1;40;FEMALE;Pugvanam

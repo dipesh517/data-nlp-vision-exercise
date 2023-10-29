@@ -48,6 +48,27 @@ Initially I tried extracting the text from whole page. But it was very difficult
 name, relative name, age, gender is easy to extract. But it is not able to extract voter id which is not in a proper pattern. It was not able to find patterns 
 So I am trying cv2 to generate image with outlines by detecting boxes or regions of interest (ROIs). And then perform OCR on that particular region of interest.
 
+
+Using regex to extract voters info from text, it was unable to parse id column, and if names are in multiple lines and if certain patterns changes, the accuracy of parsing the data was quite low. There were duplicates in voter ids also. Few names were not being captured. Parsing analysis using regex is demonstrated on 
+# parsing_analysis_using_regex.ipynb 
+
+To overcome the shortfalls, we used llm for extracting the voter info from the text.
+Accuracy increased. No of duplicates by voter ids decreased too. Parsing analysis using llm is demonstrated on 
+# parsing_analysis_using_llm.ipynb 
+
+Links to relevant code : #src/voter_info_parser.py
+
+python3 -m src.voter_info_parser 
+
+# Output Results
+electoral_rolls_output.csv : using regex 
+electoral_rolls_parsed_by_llm_output.csv : using llm 
+
+outlined images : data/pdf_images/outlined_images
+
+
+Test framework:
+pytest tests/test_voter_info_parser.py
 -------------------------------------------------------------------------------------------------------------------
 
 Task 2 Approach 
@@ -84,7 +105,15 @@ Steps
 
 
 LLM Analysis outputs are voters_info_llm_output.csv, llm_results_analysis.csv 
-llm_analysis_ipynb notebook can be referreed for statistical analysis.
+notebook can be referreed for statistical analysis: #llm_analysis.ipynb
+
+Code reference: #src/llm.py 
+
+python3 -m src.llm 
+
+Analysis:
+Using llm to verify gender column that is parsed, it showed that the 94 percent of the cases genders matched showing that gender is appropriately parsed by the parser. 
+6 % of the cases might be due to inaccuracy of llm to separate genders based on names.
 
 ------------------------------------------------------------------------------------------------------------------
 
