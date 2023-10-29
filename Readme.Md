@@ -83,3 +83,13 @@ Steps
     For entries with discrepancies, a human review could be essential. This step involves manually checking a sample of entries to understand the nature of any classification errors and to ensure that the LLM's predictions are interpreted correctly.
 
 
+LLM Analysis outputs are voters_info_llm_output.csv, llm_results_analysis.csv 
+llm_analysis_ipynb notebook can be referreed for statistical analysis.
+
+------------------------------------------------------------------------------------------------------------------
+
+Task 3 Approach
+
+
+
+
